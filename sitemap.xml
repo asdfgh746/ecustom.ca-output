@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://ecustom.ca/404/</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
     <loc>http://ecustom.ca/articles/a-new-website/</loc>
     <lastmod>2013-07-06</lastmod>
   </url>
@@ -33,16 +29,8 @@
     <lastmod>2013-06-25</lastmod>
   </url>
   <url>
-    <loc>http://ecustom.ca/articles/holistic-awareness/</loc>
-    <lastmod>2013-06-25</lastmod>
-  </url>
-  <url>
     <loc>http://ecustom.ca/articles/idea-for-css-markup-mover/</loc>
     <lastmod>2013-07-06</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/articles/lastpass-password-management/</loc>
-    <lastmod>2013-06-25</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/mr-al-chez/</loc>
@@ -69,75 +57,19 @@
     <lastmod>2013-07-06</lastmod>
   </url>
   <url>
-    <loc>http://ecustom.ca/articles/thoughts-on-grade-9/</loc>
-    <lastmod>2013-07-06</lastmod>
-  </url>
-  <url>
     <loc>http://ecustom.ca/articles/wcto-developers-2012/</loc>
     <lastmod>2013-06-25</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/</loc>
-    <lastmod>2012-10-28</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/css/screen.css</loc>
-    <lastmod>2013-07-03</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/ecustom-ca-v3.png</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/ecustom-ca-v4-content.png</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/ecustom-ca-v4-swatches.png</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/ecustom-ca-v4.png</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/favicon.png</loc>
-    <lastmod>2013-07-04</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/headshot.jpg</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/img/swatches.psd</loc>
-    <lastmod>2013-06-20</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/assets/js/html5shiv.js</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/feed.xml</loc>
-    <lastmod>2012-10-30</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/.htaccess</loc>
-    <lastmod>2013-04-20</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/info/</loc>
-    <lastmod>2013-06-23</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/sitemap.xml</loc>
     <lastmod>2013-07-06</lastmod>
   </url>
   <url>
-    <loc>http://ecustom.ca/work/terms/</loc>
+    <loc>http://ecustom.ca/</loc>
+    <lastmod>2013-07-06</lastmod>
+  </url>
+  <url>
+    <loc>http://ecustom.ca/info/</loc>
     <lastmod>2013-07-06</lastmod>
   </url>
 </urlset>
