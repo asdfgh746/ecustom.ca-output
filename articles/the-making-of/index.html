@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width">
+
+		<title>The Making of ecustom.ca - Lucas Cherkewski</title>
+
+		<link rel="author" href="https://plus.google.com/112187539887795208885">
+		<link rel="alternate" type="application/atom+xml" title="Lucas Cherkewski" href="/feed.xml">
+
+		<script type="text/javascript" src="//use.typekit.net/jaw1rum.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+		<link rel="stylesheet" href="/assets/css/screen.css">
+
+		<link rel="icon" href="/assets/img/favicon.png">
+
+		<!--[if lt IE 9]>
+			<script src="/assets/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="wrapper">
+			<header class="site-header" role="banner">
+	<div class="container">
+		<a href="#main" class="visually-hidden">Skip to main content</a>
+		<a class="name" href="/">Lucas&nbsp;Cherkewski</a>
+		<nav role="navigation">
+			<ul>
+				<li><a href="/articles/">Writing</a></li>
+				<li><a href="/info/">Info</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+			<div id="site-main" role="main">
+				<div class="container">
+					<article>
+	<h1 class="article-title">The Making of ecustom.ca</h1>
+	
+	<p>This article is a mini-essay explaining the history of ecustom.ca as well as a more in-depth look at how I built the new version.</p>
+
+<p>First, a little background.</p>
+
+<h2 id="history">History</h2>
+
+<p>This humble website has gone through a few major iterations since I registered the domain in March of 2010.</p>
+
+<p>First, the website was a static HTML/CSS mess of code. It was ugly, had silly little experiments all over it, and generally did not reflect well on me or my skillset. I made minor changes to this version for the next few months, before one day deciding it was time for a change.</p>
+
+<p>By this point in my life I was looking to write articles and tutorials on my site, so I wanted to move to a platform that would allow me to easily create and publish my works.
+I decided WordPress was a good candidate. I had experience with it before when I took it for a test run on my local development server. I also had plans to use it for client sites due to its increasing ubiquity and ease of use.</p>
+
+<p>So I deployed the latest version of WordPress on to ecustom.ca. I’m not sure the exact version number, but it was definitely pre-3.0. I jumped around with various themes, never having the time to create my own.</p>
+
+<p>Eventually 3.0 came around and I decided to use Thematic as a theme framework and create a child theme from there. My “child theme” didn’t amount to much, just some colour modifications in the end.</p>
+
+<p>I made a note to myself to one day change it, to make it more my own, but I never got around to doing so… until now.</p>
+
+<p>A few weeks ago, a coding fever descended upon me. I simply had to create something, to tackle some project. That project ended up being the new version of ecustom.ca</p>
+
+<h2 id="a-simple-static-basis">A Simple Static Basis</h2>
+
+<p>The first thing I knew I wanted out of my new site was a focus on text. I’ve been reading a lot lately on text and typographical conventions and I wanted to put some of my knowledge to work.</p>
+
+<p>I started my process with a design that I sketched out on some of my trusty graph paper. From there, I hopped into Sublime Text 2 and began laying out a basic framework from which to work off.</p>
+
+<p>This framework evolved into my article view, likely how you’re reading this now. It places a focus on the comfortable reading and consumption of text content, one of my focuses.</p>
+
+<p>I made sure the body text was big (20px, although I use ems) in an elegant font (Georgia) to put the text at the forefront of the website experience.</p>
+
+<p>I experimented with different colours and blocking schemes before deciding on this one, which is simple and clean. Once I had this layout created I proceeded to work on the other layouts I would need, namely the main page, non-article page, and article listing page.</p>
+
+<p>Once the pieces were all in place as a static placeholder framework, it was time to bring some dynamic-ness to the site.</p>
+
+<h2 id="a-dynamic-publishing-system">A Dynamic Publishing System</h2>
+
+<p>When the time came to make the site dynamic, I had several options available to me.</p>
+
+<p>The first, most obvious, option was to call back to the previous version of the site and use WordPress. I did consider this option for a while, as I figured it would be a logical step. However, after much deliberation I made the choice to not use WordPress but rather a static-site generator. The reasons for this are numerous, but I will leave that for another article to discuss.</p>
+
+<p>If you don’t know what a static-site generator is, it’s essentially a program that runs on your local computer and compiles a website for you, which you then publish via ftp to your server. The output files are all static HTML/CSS, but the input files can be in many formats. Essentially you get the benefits of WordPress and similar database-based publishing systems, but without the associated server lag and security issues.</p>
+
+<p>Now that I had decided a static-site generator was the way I would go, I had to pick one that suited my needs and that I wanted to use. At the time, I was using Python a lot, so I naturally wanted to find a generator that was built in Python.</p>
+
+<p>I evaluated <a href="http://hyde.github.com/" title="hyde">hyde</a> as an option to suit my needs. However I couldn’t get it installed so I never actually got to see how well it worked. From there, I wanted to look at hyde’s Ruby counterpart, <a href="http://jekyllrb.com/" title="jekyll">jekyll</a>, as my generator.</p>
+
+<p>However, with jekyll I came upon an issue which I had also with hyde, and many of the other generators I looked at. Looking over the code for the generators, I found that they hadn’t received any updates in quite a while. While I understand that isn’t necessarily the most important thing to look at, it was important to me that whatever project I go with has a developer that is still actively working on it. This gives me the opportunity to suggest improvements and possibly see them integrated with the project, something I wouldn’t be able to do with a dead project.</p>
+
+<p>So after I had looked at several generators, I came upon one which I had seen a while ago, on the previous version of <a href="http://danharper.me/" title="Dan Harper">Dan Harper</a>’s website. This generator was <a href="http://nanoc.stoneship.org/" title="nanoc">nanoc</a>, a Ruby-based static-site generator.</p>
+
+<h2 id="enter-nanochttpnanocstoneshiporg-nanoc">Enter <a href="http://nanoc.stoneship.org/" title="nanoc">nanoc</a></h2>
+
+<p>How did I use nanoc to build this website?</p>
+
+<p>I first took all the layouts and using the basic framework I had created at the start, created a “default” layout which the content of each page is loaded into. Depending on the page, other layouts would be rendered into this default layout, and the content would then be placed within this sub-layout.</p>
+
+<p>I then created my directory/permalink structure. All the articles would be located under “/articles/”, and other pages would reside at the top level (“/”). This keeps my permalinks short and my directory structure clean.</p>
+
+<p>With this in mind, I started porting over the content I had written, and started to write the Ruby scripts that would allow nanoc to create the pages of my site that were more “dynamic.”</p>
+
+<p>The most obvious “dynamic” page would be the <a href="/articles/" title="Articles">Articles listing page</a>, which lists out all the articles in chronological order and shows a title, an optional excerpt (displays the whole article if excerpt not found), as well as a link to the full article. I can replace the text of the link if I so choose, to customize it to suit the piece of writing. nanoc has built-in methods to list out the articles in order, and this allows me to just write articles and know that they will be included in my article list.</p>
+
+<p>The single article view is also nicely done with nanoc, most notably the date listing at the bottom. With nanoc, I simply specify in my article file that it was written on some date (let’s say November 2<sup>nd</sup> as this one was) and, along with some help from a date formatter, I can print out the number in correct ordinal format. For example, November 2, 2012, becomes the 2<sup>nd</sup> of November, 2012. Because nanoc allows me to use Ruby code to help generate the output, I can use any Ruby code to help me with the output.</p>
+
+<p>Now, I could have done this all in WordPress, or even creating all the static files myself (although that may have been signs of depression on my part), but I have decided that nanoc has fit my needs wonderfully. It has been a joy to work with, and as I write this article I know that my site will generate perfectly, without issue.</p>
+
+<h2 id="other-benefits-of-nanoc">Other Benefits of nanoc</h2>
+
+<p>Using nanoc also provides me some additional benefits. Namely, I get to open-source my whole website! That’s right, the <a href="https://github.com/asdfgh746/ecustom.ca" title="GitHub - asdfgh746/ecustom.ca">code for this site</a> is available on GitHub. You’ll need nanoc to generate it, but you can look through it and hopefully learn about the operation of nanoc.</p>
+
+<p>With the code being open-source and available on GitHub, it also means the entire site is managed by git. This means that I can version control all my articles and versions of my site. No more WordPress revisions which kinda-sorta make sense, just commits which I manage and control.</p>
+
+<p>nanoc also gives me the benefit of being able to use a variety of formatting technologies. From HTML to Markdown, I’ve got the full spectrum of choice available to me. Even better, any publishing system which has a Ruby gem works with nanoc. This means technology like SASS can also be integrated, with little trouble.</p>
+
+<p>Another fun benefit is that I got to work with a cool technology which I haven’t before, and I now know of a program I can use to create simple static sites for clients depending on their needs.</p>
+
+<h2 id="conclusion">Conclusion</h2>
+
+<p>ecustom.ca is powered by <a href="http://nanoc.stoneship.org/" title="nanoc">nanoc</a>, a super-cool static-site generator which allows me to focus on my writing, which is a priority now as I try to write and publish more. If you have any questions about nanoc, feel free to <a href="/contact/" title="Contact Me">get in touch with me</a> and I’ll do my best to sort you out.</p>
+
+<p>This website has been through a couple of major iterations now, with the current version being v3.0. I however, prefer to think of this as a completely new version. To assign it a version number greater than 1.0 would be to imply that it is in some way related to the previous versions. In reality, it is different in all ways, even the name, and as such deserves to have its version counter reset. This is v1.0 of ecustom.ca. Welcome to the party, I look forward to enjoying it with you.</p>
+
+	
+	
+		<p class="article-information">Published on the 2<sup>nd</sup> of November, 2012.</p>
+	
+	
+	<h2>Questions, Comments, Concerns?</h2>
+	<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
+
+	<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
+</article>
+				</div>
+			</div>
+			<footer class="site-footer grid grid-col-3" role="contentinfo">
+	<div class="container">
+		<div class="grid-module grid-2-3">
+			<p><a href="https://twitter.com/lchski">Follow me on Twitter</a> or <a href="mailto:lucas@ecustom.ca">email me</a>.</p>
+
+			<p class="copyright">&copy; 2013 Lucas Cherkewski. I approve of most of these messages.</p>
+		</div>
+		<div class="grid-module">
+			<ul class="networks">
+				You can also find me here:
+				
+				<li><a href="https://github.com/asdfgh746">Github</a></li>
+				<li><a href="https://secure.flickr.com/photos/lchski/">Flickr</a></li>
+				<li><a href="/feed.xml">RSS</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+		</div>
+
+		<script type="text/javascript">
+		  var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-15908755-1"]),_gaq.push(["_trackPageview"]),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();
+		</script>
+	</body>
+</html>
