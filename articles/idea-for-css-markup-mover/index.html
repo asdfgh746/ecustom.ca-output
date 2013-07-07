@@ -37,10 +37,10 @@
 </header>
 			<div id="site-main" role="main">
 				<div class="container">
-					<article>
-	<h1 class="article-title">An Idea for a CSS Markup Mover</h1>
+					<article itemscope itemtype="http://schema.org/Article">
+	<h1 itemprop="name" class="article-title">An Idea for a CSS Markup Mover</h1>
 	
-	<p>Lately I’ve been working with responsively designed websites, and I’ve encountered an interesting problem. Currently in CSS, if we wish to “move” the location of a section of HTML content, we need to do so using sometimes ungainly CSS tricks. These include messing with <code>position: absolute</code> or <code>position: fixed</code>, which is hardly a bulletproof solution (just think what happens when your moved content suddenly grows to a size you didn’t expect, and suddenly it’s obscuring important content… yikes!)</p>
+	<div itemprop="articleBody"><p>Lately I’ve been working with responsively designed websites, and I’ve encountered an interesting problem. Currently in CSS, if we wish to “move” the location of a section of HTML content, we need to do so using sometimes ungainly CSS tricks. These include messing with <code>position: absolute</code> or <code>position: fixed</code>, which is hardly a bulletproof solution (just think what happens when your moved content suddenly grows to a size you didn’t expect, and suddenly it’s obscuring important content… yikes!)</p>
 
 <p>For the sake of discussion, let’s imagine we have a menu which is at the bottom of the document in the HTML, thus putting it out of the way for mobile users. Here is the basic HTML to illustrate this structure:</p>
 
@@ -140,17 +140,21 @@
 <p>I would love to see this implemented in some way, but it is of course important to take into account the semantics of the new elements being created. That said, I still believe it is a good solution to our problem, and would love to work with someone to make it happen!</p>
 
 <p>Thanks for taking the time to read this lengthy, long-winded proposal. Perhaps I’ll release a much more succinct version in the near future.</p>
+</div>
+	
+	
+		<p class="article-information">Published on the <time itemprop="datePublished" datetime="2013-02-04 20:20-05:00">4<sup>th</sup> of February, 2013</time>.</p>
+	
 
-	
-	
-		<p class="article-information">Published on the 4<sup>th</sup> of February, 2013.</p>
-	
-	
-	<h2>Questions, Comments, Concerns?</h2>
-	<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
-
-	<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
+	<p class="visually-hidden">
+		By <a href="/"><span itemprop="author">Lucas Cherkewski</span></a>.
+	</p>
 </article>
+	
+<h2>Questions, Comments, Concerns?</h2>
+<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
+
+<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
 				</div>
 			</div>
 			<footer class="site-footer grid grid-col-3" role="contentinfo">
