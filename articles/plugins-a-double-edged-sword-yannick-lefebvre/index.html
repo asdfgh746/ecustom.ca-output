@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<meta name="viewport" content="width=device-width">
+
+		<title>WordCamp Montr&eacute;al: Plugins: A Double-Edged Sword - Lucas Cherkewski</title>
+
+		<link rel="author" href="https://plus.google.com/112187539887795208885">
+		<link rel="alternate" type="application/atom+xml" title="Lucas Cherkewski" href="/feed.xml">
+
+		<script type="text/javascript" src="//use.typekit.net/jaw1rum.js"></script>
+		<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+		<link rel="stylesheet" href="/assets/css/screen.css">
+
+		<link rel="icon" href="/assets/img/favicon.png">
+
+		<!--[if lt IE 9]>
+			<script src="/assets/js/html5shiv.js"></script>
+		<![endif]-->
+	</head>
+	<body>
+		<div class="wrapper">
+			<header class="site-header" role="banner">
+	<div class="container">
+		<a href="#main" class="visually-hidden">Skip to main content</a>
+		<a class="name" href="/">Lucas&nbsp;Cherkewski</a>
+		<nav role="navigation">
+			<ul>
+				<li><a href="/articles/">Writing</a></li>
+				<li><a href="/info/">Info</a></li>
+			</ul>
+		</nav>
+	</div>
+</header>
+			<div id="site-main" role="main">
+				<div class="container">
+					<article>
+	<h1 class="article-title">WordCamp Montr&eacute;al: Plugins: A Double-Edged Sword</h1>
+	
+	
+<p class="article-intro">
+At WordCamp Montréal 2013, <a href="https://twitter.com/ylefebvre">Yannick Lefebvre</a> talked about WordPress plugins from a user/integrator perspective. <a href="http://ylefebvre.ca/wcmtl13">Slides</a>. Here are my notes:
+</p>
+
+<h2 id="things-to-check-before-using-a-plugin">Things to check before using a plugin</h2>
+
+<ul>
+  <li>Compatability - does it work for your version?</li>
+  <li># of Downloads - higher counts are generally a good indicator.</li>
+  <li>Ratings - take with a grain of salt, because anyone can vote.</li>
+  <li># of Resolved Threads - doesn’t take into account support delivered outside of WordPress.org. Some developers use their own forums for support, and are very active there.</li>
+</ul>
+
+<h2 id="things-to-do-before-deploying-a-3suprdsup-party-plugin">Things to do before deploying a 3<sup>rd</sup>-party plugin</h2>
+
+<ul>
+  <li>Check render time before installing it, and then check after. Check both the front and back end. Are the load times acceptable? <em>Lucas’ note: if your plugin provides a feature only used on select pages (e.g. a shortcode), make sure to check the performance of</em> those <em>pages especially.</em></li>
+  <li>Log out and view the site as a regular user. Does it still work?</li>
+</ul>
+
+<h2 id="troubleshooting-a-faulty-plugin">Troubleshooting a faulty plugin</h2>
+
+<ul>
+  <li>Deactivate the last plugin installed.</li>
+  <li>Deactivate <em>all</em> plugins and activate each one again, one at a time. Refresh your site each time, see when it breaks.</li>
+  <li>Read the plugin page, check for install instructions you may have missed.</li>
+  <li>Contact the author if all else fails and you absolutely need the plugin to work.</li>
+</ul>
+
+<h2 id="style-issues">Style issues</h2>
+
+<ul>
+  <li>Conflicting styles between the plugin’s styles and yours, or one plugin’s styles and another.</li>
+  <li>Use the inspector to find the “winning styles.”</li>
+  <li>Can modify the theme to fix these issues. <code>!important</code> can come in handy here.</li>
+  <li>Can modify the plugin, but make sure to backup the files first and know that your changes will be overwritten if you automatically update.</li>
+</ul>
+
+<h2 id="jquery-issues">jQuery issues</h2>
+
+<ul>
+  <li>Often breaks all the jQuery-affected elements on a page.</li>
+  <li>Check the console of the inspector for errors.</li>
+  <li>Common issue is more than one jQuery verison being loaded. Check for multiple copies in the source, or in the inspector’s scripts section.</li>
+  <li>When using jQuery, use the longform version (jQuery()) instead of the shorthand ($()) to avoid conflicts.</li>
+</ul>
+
+<h2 id="upload-issues">Upload issues</h2>
+
+<ul>
+  <li>Write permissions may be wrong on the upload folder. <em>Lucas’ note: 755 should do the trick, according to the <a href="http://codex.wordpress.org/Changing_File_Permissions">WordPress Codex</a></em>.</li>
+  <li>The server max upload size (set in php.ini) may be too small. By default it’s 8MB, but some hosts turn it down. Contact yours to see how to change it.</li>
+</ul>
+
+<h2 id="troubleshooting-bad-upgrades">Troubleshooting bad upgrades</h2>
+
+<ul>
+  <li>Reactivate the plugin. (Especially when uploaded with FTP).</li>
+  <li>Check for error messages, and <em>read</em> them.</li>
+  <li>Revert to a previous version (you do have a backup, don’t you?).</li>
+  <li>Find previous version (if you don’t have a backup), by browsing the Trac page for the plugin (when on WordPress.org) and checking for tags, or showing revisions. <em>Lucas’ note: just make a backup regularly, it’ll save you so much hassle in the long run.</em></li>
+</ul>
+
+<h2 id="bad-plugin-breakups">Bad plugin breakups</h2>
+
+<ul>
+  <li>You may “break up” with a plugin when you find one that’s a better solution for your needs, or if what you’re using now provides unnecessary functionality.</li>
+  <li>The plugin development may have ended, and it may not support new versions of WordPress.</li>
+  <li>Make sure to analyse the effects of deactivation. Plugin authors rarely remember to include features which clean up after being uninstalled, so you may have to do this yourself.</li>
+</ul>
+
+	
+	
+		<p class="article-information">Published on the 6<sup>th</sup> of July, 2013.</p>
+	
+	
+	<h2>Questions, Comments, Concerns?</h2>
+	<p>Contact me on Twitter <a href="https://twitter.com/lchski">@lchski</a>.</p>
+
+	<p class="article-feed-subscribe"><a href="http://feedburner.google.com/fb/a/mailverify?uri=lucascherkewski&amp;loc=en_US">Get articles via email</a>.</p>
+</article>
+				</div>
+			</div>
+			<footer class="site-footer grid grid-col-3" role="contentinfo">
+	<div class="container">
+		<div class="grid-module grid-2-3">
+			<p><a href="https://twitter.com/lchski">Follow me on Twitter</a> or <a href="mailto:lucas@ecustom.ca">email me</a>.</p>
+
+			<p class="copyright">&copy; 2013 Lucas Cherkewski. I approve of most of these messages.</p>
+		</div>
+		<div class="grid-module">
+			<ul class="networks">
+				You can also find me here:
+				
+				<li><a href="https://github.com/asdfgh746">Github</a></li>
+				<li><a href="https://secure.flickr.com/photos/lchski/">Flickr</a></li>
+				<li><a href="/feed.xml">RSS</a></li>
+			</ul>
+		</div>
+	</div>
+</footer>
+		</div>
+
+		<script type="text/javascript">
+		  var _gaq=_gaq||[];_gaq.push(["_setAccount","UA-15908755-1"]),_gaq.push(["_trackPageview"]),function(){var a=document.createElement("script");a.type="text/javascript",a.async=!0,a.src=("https:"==document.location.protocol?"https://ssl":"http://www")+".google-analytics.com/ga.js";var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)}();
+		</script>
+	</body>
+</html>
