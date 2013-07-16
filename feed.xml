@@ -2,13 +2,48 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2013-07-15T04:00:00Z</updated>
+  <updated>2013-07-16T03:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2013-07-15:/articles/write-in-the-open/</id>
+    <title type="html">Write in the Open</title>
+    <published>2013-07-16T03:00:00Z</published>
+    <updated>2013-07-16T03:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/write-in-the-open/"/>
+    <content type="html">&lt;p class="article-intro"&gt;
+I do all my writing in the open. Anyone can view what I'm working on, the ugly drafts and the stupid ideas, at any time. This rocks.
+&lt;/p&gt;
+
+&lt;p&gt;How do I write in the open? For those adventurous few who want to delve into my site’s &lt;a href="https://github.com/asdfgh746/ecustom.ca"&gt;GitHub repo&lt;/a&gt;, they can see all the writing I have. They can see the finished articles, the drafts, and the discarded but never deleted ideas. It’s all there.&lt;/p&gt;
+
+&lt;h2 id="be-accountable"&gt;Be accountable&lt;/h2&gt;
+
+&lt;p&gt;By writing in the open, I’m accountable. I know that someone could be reading my work long before it’s available, so I have to make it top-notch. Not only that, but I know that they could be looking at my work from months ago, which pushes me to make better content that outshines that writing.&lt;/p&gt;
+
+&lt;p&gt;They can see that I have works which are still not published, and that I haven’t seen fit to delete it yet. I’m accountable to the people who see my writing sitting unpublished, because they know I have unfinished work. I don’t like having unfinished work, so it pushes me to finish it.&lt;/p&gt;
+
+&lt;h2 id="be-transparent"&gt;Be transparent&lt;/h2&gt;
+
+&lt;p&gt;By writing in the open, I can give sneak peeks. People see my work before it’s unpublished, and they get a chance to look at my process. They can see the work evolve by looking at the piece’s history. For example, I recently broke out a section of a larger essay I was writing into its own article, which ended up being my piece about &lt;a href="http://bit.ly/17hhiLk"&gt;my writing workflow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Opening the veil like this allows people to see some of my thought process. They can watch the evolution of my thoughts and learn more about me along the way.&lt;/p&gt;
+
+&lt;p&gt;Transparency is great, because it builds &lt;em&gt;trust&lt;/em&gt;. And having people who trust you is an awesome thing.&lt;/p&gt;
+
+&lt;h2 id="be-bold"&gt;Be bold&lt;/h2&gt;
+
+&lt;p&gt;Go ahead, put your unfinished work out there. Be bold, be confident. Don’t be afraid of what it might say about you. Do it often enough, and it’ll be a part of who you are, and people will come to respect and value you for it.&lt;/p&gt;
+
+&lt;p&gt;I look forward to seeing your unfinished work.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Want to see &lt;em&gt;my&lt;/em&gt; latest unfinished work? You can read my aforementioned &lt;a href="https://github.com/asdfgh746/ecustom.ca/blob/master/content/articles/writing-process.md"&gt;essay on writing&lt;/a&gt;. If you have some thoughts on it, I’d love to &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#101;&amp;#099;&amp;#117;&amp;#115;&amp;#116;&amp;#111;&amp;#109;&amp;#046;&amp;#099;&amp;#097;"&gt;hear them&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2013-07-15:/articles/my-writing-workflow/</id>
     <title type="html">My writing workflow</title>
@@ -303,49 +338,6 @@ At WordCamp Montréal 2013, &lt;a href="https://twitter.com/ylefebvre"&gt;Yannic
   &lt;li&gt;The plugin development may have ended, and it may not support new versions of WordPress.&lt;/li&gt;
   &lt;li&gt;Make sure to analyse the effects of deactivation. Plugin authors rarely remember to include features which clean up after being uninstalled, so you may have to do this yourself.&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2013-07-06:/articles/no-comments/</id>
-    <title type="html">A Lack of Comments</title>
-    <published>2013-07-07T00:00:00Z</published>
-    <updated>2013-07-07T00:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/no-comments/"/>
-    <content type="html">&lt;p class="article-intro"&gt;Comments are viewed as being an essential part of any website delivering primarily written content, such as this one. So why is this site devoid of them?&lt;/p&gt;
-
-&lt;p&gt;This lack of comments has always been a concious choice of mine — this site was never meant to have any. However, it was called to my attention in a &lt;a href="https://twitter.com/richardmtl/status/353190233967296512"&gt;Tweet by Richard Archambault&lt;/a&gt; the other day that I haven’t yet explained myself.&lt;/p&gt;
-
-&lt;p&gt;The absence of comments is attributable to two factors: implementation, and philosophy.&lt;/p&gt;
-
-&lt;h2 id="implementation"&gt;Implementation&lt;/h2&gt;
-
-&lt;p&gt;I don’t use a truly dynamic publishing system like WordPress to create my website. The tool I use, &lt;a href="http://nanoc.ws"&gt;nanoc&lt;/a&gt;, is designed for the creation of static-file websites, which don’t lend themselves particularly well to comments.&lt;/p&gt;
-
-&lt;p&gt;There’s no plans to change away from nanoc for the moment, so that option isn’t available.&lt;/p&gt;
-
-&lt;p&gt;But wait, you might say. Why don’t you use a third-party hosted comment solution like &lt;a href="http://disqus.com/"&gt;Disqus&lt;/a&gt;?&lt;/p&gt;
-
-&lt;p&gt;I have nothing against Disqus in particular, but I do take issue with having too many external dependencies, as well as not having control over the appearance of all my site’s components.&lt;/p&gt;
-
-&lt;p&gt;Using Disqus (or any similar hosted comments service) forces me to load the necessary scripts from their servers (which I try to limit how often I do), as well as to use the styles they provide. Unfortunately, none of the styles they offer fit in with the message I try to send with this website.&lt;/p&gt;
-
-&lt;p&gt;One downside about losing centralized comments is that it’s difficult to see all the different reactions that have occurred. However, my strategy to combat that is simple: update the article in question with links to the external commentary, with a response of my own. (This whole post is really an example of that, thanks again to &lt;a href="https://twitter.com/richardmtl"&gt;Richard&lt;/a&gt;.)&lt;/p&gt;
-
-&lt;p&gt;Even if I could have comments on the site in a technical manner which I agree with, I’m not sure I would.&lt;/p&gt;
-
-&lt;h2 id="philosophy"&gt;Philosophy&lt;/h2&gt;
-
-&lt;p&gt;This is what’s really stopped me from including comments. I don’t believe it’s necessary to have comments on personal sites anymore.&lt;/p&gt;
-
-&lt;p&gt;Discussion around posts will still happen (does still happen). However it occurs on other mediums. I receive comments via Twitter, via Facebook, via email, and I feel that the ones I receive there matter more than if I had received them here.&lt;/p&gt;
-
-&lt;p&gt;If people are contacting me using those methods, it usually means that they actually have something of substance to say about what I wrote. What they say over Facebook or Twitter is more public than what they say here, so they’re more likely to put out high quality content, if they put anything out at all.&lt;/p&gt;
-
-&lt;p&gt;I’m all for high quality content.&lt;/p&gt;
-
-&lt;h2 id="the-door-is-still-open"&gt;The Door is (Still) Open&lt;/h2&gt;
-
-&lt;p&gt;Omitting comments doesn’t mean I’ve closed the door to discussion on my pieces of writing. It just means I’ve decided to move that discussion elsewhere.&lt;/p&gt;
 </content>
   </entry>
 </feed>
