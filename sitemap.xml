@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://ecustom.ca/</loc>
+    <lastmod>2013-07-06</lastmod>
+  </url>
+  <url>
+    <loc>http://ecustom.ca/articles/</loc>
+    <lastmod>2013-07-06</lastmod>
+  </url>
+  <url>
     <loc>http://ecustom.ca/articles/a-new-website/</loc>
     <lastmod>2013-07-06</lastmod>
   </url>
@@ -10,27 +18,27 @@
   </url>
   <url>
     <loc>http://ecustom.ca/articles/after-wordcamp-montreal-2013/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/back-of-the-heads/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/before-wordcamp-montreal-2013/</loc>
-    <lastmod>2013-06-26</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/build-a-website-on-the-moon-sarah-semark/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/evolving-industries/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/get-more-from-talks/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/idea-for-css-markup-mover/</loc>
@@ -38,35 +46,35 @@
   </url>
   <url>
     <loc>http://ecustom.ca/articles/mr-al-chez/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/my-writing-workflow/</loc>
-    <lastmod>2013-07-15</lastmod>
+    <lastmod>2013-07-14</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/no-comments/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/plugins-a-double-edged-sword-yannick-lefebvre/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/professional-wordpress-deployment-rami-sayar/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/site-redesign-v4/</loc>
-    <lastmod>2013-07-07</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/skating-rinks/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/the-lady-on-the-bus/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/the-making-of/</loc>
@@ -74,19 +82,11 @@
   </url>
   <url>
     <loc>http://ecustom.ca/articles/wcto-developers-2012/</loc>
-    <lastmod>2013-06-25</lastmod>
+    <lastmod>2013-07-05</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/articles/write-in-the-open/</loc>
     <lastmod>2013-07-16</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/articles/</loc>
-    <lastmod>2013-07-06</lastmod>
-  </url>
-  <url>
-    <loc>http://ecustom.ca/</loc>
-    <lastmod>2013-07-06</lastmod>
   </url>
   <url>
     <loc>http://ecustom.ca/info/</loc>
