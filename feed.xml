@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2013-07-16T19:30:00Z</updated>
+  <updated>2013-07-18T22:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
@@ -10,11 +10,11 @@
     <uri>http://ecustom.ca</uri>
   </author>
   <entry>
-    <id>tag:ecustom.ca,2013-07-16:/articles/how-to-make-6-figures-in-web-design/</id>
+    <id>tag:ecustom.ca,2013-07-16:/notes/how-to-make-6-figures-in-web-design/</id>
     <title type="html">WordCamp Atlanta: How to Make Six Figures in Web Design</title>
     <published>2013-07-16T19:30:00Z</published>
     <updated>2013-07-16T19:30:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/how-to-make-6-figures-in-web-design/"/>
+    <link rel="alternate" href="http://ecustom.ca/notes/how-to-make-6-figures-in-web-design/"/>
     <content type="html">
 &lt;p class="article-intro"&gt;
 At WordCamp Atlanta 2013, &lt;a href="https://twitter.com/jamesdalman"&gt;James Dalman&lt;/a&gt; talked about how to build a profitable business on web design. &lt;a href="http://www.slideshare.net/JamesDalman/how-to-make-six-figures-in-web-design"&gt;Slides&lt;/a&gt;. &lt;a href="http://wordpress.tv/2013/04/21/james-dalman-how-to-make-six-figures-in-web-design/"&gt;Video&lt;/a&gt;. Here are my notes:
@@ -285,132 +285,6 @@ My writing workflow has evolved considerably over the past few years, going from
 &lt;p&gt;What’s important to take away from this piece, though, is that what works for writing is what works for you. My system is far from perfect, or even ideal, and I will always be tweaking it to be better. However, it works for me in its current state.&lt;/p&gt;
 
 &lt;p&gt;And after all, isn’t it true that all we want to do is share our ideas with the rest of the world? If your system can do that, I think it’s the right one for you.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2013-07-06:/articles/professional-wordpress-deployment-rami-sayar/</id>
-    <title type="html">WordCamp Montr&amp;eacute;al: Professional WordPress Deployment</title>
-    <published>2013-07-07T02:00:00Z</published>
-    <updated>2013-07-07T02:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/professional-wordpress-deployment-rami-sayar/"/>
-    <content type="html">
-&lt;p class="article-intro"&gt;
-At WordCamp Montréal 2013, &lt;a href="https://twitter.com/ramisayar"&gt;Rami Sayar&lt;/a&gt; talked about moving from a developed product to a deployed one. &lt;a href="http://slid.es/sayar/prowp"&gt;Slides&lt;/a&gt;. Here are my notes:
-&lt;/p&gt;
-
-&lt;h2 id="professional-software"&gt;Professional software&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;High-availability, very reliable, being maintained and kept up-to-date continuously.&lt;/li&gt;
-  &lt;li&gt;Managed releases - they’re tested, and it’s clear what changes are being sent out.&lt;/li&gt;
-  &lt;li&gt;Only a select few can access production and deploy there.&lt;/li&gt;
-  &lt;li&gt;Uses a consistent, versioned, automated software stack so that software is guaranteed to work across environments.&lt;/li&gt;
-  &lt;li&gt;Uses automated deployment to go quickly, without downtime.&lt;/li&gt;
-  &lt;li&gt;Software is auditable, with quality logs dating far back.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="world-class-frontends-need-world-class-backends"&gt;“World-class frontends need world-class backends”&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Developer operations (devops) has to be everywhere throughout development.&lt;/li&gt;
-  &lt;li&gt;Check out &lt;a href="http://prowp.org/"&gt;ProWP.org&lt;/a&gt; for devops resources.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="git"&gt;Git&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use submodules to track and manage histories separately.&lt;/li&gt;
-  &lt;li&gt;Don’t clone WordPress, fork it then use it as the upstream repo. This allows you to get new changes from WordPress as they come.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="vagrantpackerio-for-machine-images"&gt;Vagrant/Packer.io for machine images&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Vagrant is a tool to &lt;em&gt;describe&lt;/em&gt; a virtual machine.&lt;/li&gt;
-  &lt;li&gt;Vagrantpress is an Ubuntu Vagrant machine which is already setup with WordPress included.&lt;/li&gt;
-  &lt;li&gt;Packer.io allows building identical cross-platform images.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="chefpuppet"&gt;Chef/Puppet&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Chef and Puppet are two similar tools to allow for configuration file deployment.&lt;/li&gt;
-  &lt;li&gt;Chef is better for multi-server deployments (as it requires a lead server which others get config instructions from), whilst Puppet is better for single-server or a very limited number of servers.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="miscellany"&gt;Miscellany&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;WP-CLI allows for the creation and control of WordPress installations using the command line.&lt;/li&gt;
-  &lt;li&gt;For open-source projects, use a tool such as Travis CI or Jenkins for testing.&lt;/li&gt;
-  &lt;li&gt;New Relic is a good tool for server monitoring, while Nagios is a good open source alternative.&lt;/li&gt;
-  &lt;li&gt;When performing host migrations, employ a code freeze as well as a content freeze (at least, do so for staging).&lt;/li&gt;
-  &lt;li&gt;memcached + batcache are a powerful combination for caching.&lt;/li&gt;
-  &lt;li&gt;The Automattic Developer plugin provides tons of great plugins for development purposes.&lt;/li&gt;
-&lt;/ul&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2013-07-06:/articles/build-a-website-on-the-moon-sarah-semark/</id>
-    <title type="html">WordCamp Montr&amp;eacute;al: Build a Website on the Moon: WordPress Development from Anywhere</title>
-    <published>2013-07-07T01:30:00Z</published>
-    <updated>2013-07-07T01:30:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/build-a-website-on-the-moon-sarah-semark/"/>
-    <content type="html">
-&lt;p class="article-intro"&gt;
-At WordCamp Montréal 2013, &lt;a href="https://twitter.com/sarahsemark"&gt;Sarah Semark&lt;/a&gt; talked about how to develop WordPress sites from just about anywhere. &lt;a href="http://triggersandsparks.com/talks/moon"&gt;Slides&lt;/a&gt;. Here are my notes:
-&lt;/p&gt;
-
-&lt;h2 id="why-local-development-rocks"&gt;Why local development rocks&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Faster development - no need to wait for uploads.&lt;/li&gt;
-  &lt;li&gt;Better testing - change all the file without affecting production.&lt;/li&gt;
-  &lt;li&gt;Version control - keep a revision history using git.&lt;/li&gt;
-  &lt;li&gt;A nicer production server - it’s more stable, with less downtime and outages.&lt;/li&gt;
-  &lt;li&gt;Collaboration - can work better because you don’t have two people editing the same files.&lt;/li&gt;
-  &lt;li&gt;Deployment - can automate deployment, getting rid of a lot of human error.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="tools"&gt;Tools&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Use an XAMP stack (Operating system, Apache, MySQL, PHP) for your server.&lt;/li&gt;
-  &lt;li&gt;Git for version control.&lt;/li&gt;
-  &lt;li&gt;Automation scripts to sync your database changes.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="xamp"&gt;XAMP&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Set up your virtual hosts, allowing multiple sites, each with their own “domain” (can use something like wallybills.dev).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="git"&gt;Git&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;A very fast system to track changes.&lt;/li&gt;
-  &lt;li&gt;Use your remote, or staging, location (like GitHub or BitBucket) to solve conflicts, not production.&lt;/li&gt;
-  &lt;li&gt;Setup your &lt;code&gt;.gitignore&lt;/code&gt; file to ignore &lt;code&gt;wp-config.php&lt;/code&gt;, all machine-specific files, and &lt;em&gt;anything with sensitive data&lt;/em&gt;.&lt;/li&gt;
-  &lt;li&gt;On production, keep your &lt;code&gt;.git/&lt;/code&gt; folder one level above your web root (&lt;code&gt;public_html/&lt;/code&gt;, or &lt;code&gt;www/&lt;/code&gt;, or similar).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id="database-automation"&gt;Database automation&lt;/h3&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Keep all your site data in sync when you make file changes. (Sarah has some files &lt;a href="https://gist.github.com/sarahsemark/5889465"&gt;on GitHub Gist&lt;/a&gt; to help you out here.)&lt;/li&gt;
-  &lt;li&gt;Pull data down from production to your local machine so you have real content created by clients to style.&lt;/li&gt;
-  &lt;li&gt;Don’t use PHPMyAdmin to sync. Automate it.&lt;/li&gt;
-  &lt;li&gt;Keep the table prefix the same between local and production, for simplicity’s sake.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id="security"&gt;Security&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Keep the &lt;code&gt;.git&lt;/code&gt; folder out of the web root.&lt;/li&gt;
-  &lt;li&gt;No sensitive files in the web root.&lt;/li&gt;
-  &lt;li&gt;You can move &lt;code&gt;wp-config.php&lt;/code&gt; up one level from the WordPress install location, and WordPress will still find it.&lt;/li&gt;
-&lt;/ul&gt;
 </content>
   </entry>
 </feed>
