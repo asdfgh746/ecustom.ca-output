@@ -2,13 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2013-07-18T22:00:00Z</updated>
+  <updated>2013-07-20T20:30:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2013-07-20:/articles/imperfect-design/</id>
+    <title type="html">Stop designing perfectly</title>
+    <published>2013-07-20T20:30:00Z</published>
+    <updated>2013-07-20T20:30:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/imperfect-design/"/>
+    <content type="html">&lt;p class="article-intro"&gt;
+	Too often in design, we get caught up with the idea that a design has to be (or even can be) perfect.
+&lt;/p&gt;
+
+&lt;p&gt;With this mindset, we strive, we push ourselves to create the best possible interface for our users. We work hard to achieve that perfect interface.&lt;/p&gt;
+
+&lt;p&gt;But are we going about this all wrong?&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I think we are.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id="school-marks"&gt;School marks&lt;/h2&gt;
+
+&lt;p&gt;Marks in highschool are a funny thing. All through elementary school, we’re taught that a mark of A is the ultimate standard to achieve. In our minds it’s 100%, because we can’t go any higher.&lt;/p&gt;
+
+&lt;p&gt;However, what we see in highschool is actually quite different.&lt;/p&gt;
+
+&lt;p&gt;When we arrive at highschool we learn that an A is actually part of a &lt;em&gt;range of percentages&lt;/em&gt;. Getting an A could mean anything from 80% to 100%.&lt;/p&gt;
+
+&lt;p&gt;If our “ultimate standard” is no longer represented by a mark of 100%, we realize that our ultimate standard is actually easier to achieve.&lt;/p&gt;
+
+&lt;h2 id="the-standard-shifts"&gt;The standard shifts&lt;/h2&gt;
+
+&lt;p&gt;This shifting standard, where 80% to 100% is our top game, is a really good thing for us.&lt;/p&gt;
+
+&lt;p&gt;It lets us reevaluate what it means to achieve the top of our game, and remove the expectation of perfection.&lt;/p&gt;
+
+&lt;p&gt;Let’s look at design through this lens. How can our designs benefit from us using a range of “marks” to judge our work, instead of just 100%?&lt;/p&gt;
+
+&lt;h2 id="design-isnt-perfect"&gt;Design isn’t perfect&lt;/h2&gt;
+
+&lt;p&gt;Design doesn’t have to be perfect. The high standard that we want to achieve is possible without toiling forever to create that mythical 100% design.&lt;/p&gt;
+
+&lt;p&gt;A design that looks 80% right still gets an A.&lt;/p&gt;
+
+&lt;p&gt;This can benefit us greatly:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;We stop spending too much time designing things;&lt;/li&gt;
+  &lt;li&gt;Our newfound time can be used talking with customers to find out what they think;&lt;/li&gt;
+  &lt;li&gt;This feedback can be used to improve the design the way customers want it to be improved.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The time we’d have spent delaying our product’s launch to get a perfect design is much better spent.&lt;/p&gt;
+
+&lt;p&gt;Design isn’t perfect. Don’t try to make it be. You’ll still get an A without getting 100%.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Keep highschool marks in mind as you go forth to design the next “best”-looking product. Don’t try and be perfect right off the bat, give it time. An 80% is still an A.&lt;/p&gt;
+
+&lt;p&gt;I look forward to seeing all your imperfect designs.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2013-07-16:/notes/how-to-make-6-figures-in-web-design/</id>
     <title type="html">WordCamp Atlanta: How to Make Six Figures in Web Design</title>
