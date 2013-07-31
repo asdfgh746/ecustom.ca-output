@@ -2,13 +2,80 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2013-07-28T23:54:00Z</updated>
+  <updated>2013-07-31T20:30:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2013-07-31:/articles/stop-listing-features/</id>
+    <title type="html">Stop listing features. Start gaining customers.</title>
+    <published>2013-07-31T20:30:00Z</published>
+    <updated>2013-07-31T20:30:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/stop-listing-features/"/>
+    <content type="html">&lt;p&gt;Don’t list features for your online product.&lt;/p&gt;
+
+&lt;p&gt;People don’t care that much about the fact that your service integrates with Dropbox, iCloud, Drive, and your refrigerator.&lt;/p&gt;
+
+&lt;p&gt;People don’t care about how your service works. They do care about how it will help them.&lt;/p&gt;
+
+&lt;h2 id="the-greeks"&gt;The Greeks&lt;/h2&gt;
+
+&lt;p&gt;Let’s look back around two and a half thousand years to see why this is the case.&lt;/p&gt;
+
+&lt;p&gt;Aristotle wrote about &lt;em&gt;logos&lt;/em&gt; and &lt;em&gt;pathos.&lt;/em&gt; Logos is about appealing to logic.&lt;/p&gt;
+
+&lt;p&gt;When you list features, you’re appealing to their sense of logic. You’re having them use logic to understand how your product will work for them.&lt;/p&gt;
+
+&lt;p&gt;However, when you’re trying to convince someone to do something – whether that’s to sign up for a mailing list, to sign up for a free trial, or to register an account with your service – it’s far better to appeal to their &lt;em&gt;pathos,&lt;/em&gt; or their sense of emotion.&lt;/p&gt;
+
+&lt;p&gt;We’re creatures of emotion. Because we’re like this, we’re naturally attracted to those things which appeal to our emotions.&lt;/p&gt;
+
+&lt;p&gt;So how can your product appeal to your potential users’ emotions instead of just their logic?&lt;/p&gt;
+
+&lt;h2 id="explain-what-it-does-for-your-users-instead-of-how-its-done"&gt;Explain what it does for your users… instead of how it’s done.&lt;/h2&gt;
+
+&lt;p&gt;Let’s say your product page has a list of features like this:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Integrates with Dropbox, iCloud, and Drive.&lt;/li&gt;
+  &lt;li&gt;Autosaves your work.&lt;/li&gt;
+  &lt;li&gt;Has keyboard shortcuts for editing.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;This list of features appeals to logic pretty well. It’s very clear how the product works. However, it doesn’t really appeal to your users’ emotions.&lt;/p&gt;
+
+&lt;p&gt;Let’s rewrite this feature list to better explain what the product can do for your users, and why it’s useful for them.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Integrates with Dropbox, iCloud, and Drive. -&amp;gt; &lt;em&gt;Access your work wherever you are.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Autosaves your work. -&amp;gt; &lt;em&gt;Never worry about changes to your work being lost.&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;Has keyboard shortcuts for editing. -&amp;gt; &lt;em&gt;Cut down on time and be more efficient with your editing.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;See how our three new list items do a much better job of explaining to a potential user how your product can help them?&lt;/p&gt;
+
+&lt;p&gt;We’re now appealing to the emotional side of your users… a much more powerful pull than just logic alone.&lt;/p&gt;
+
+&lt;h2 id="not-just-for-product-pages"&gt;Not just for product pages&lt;/h2&gt;
+
+&lt;p&gt;This extends to working with clients, too. Don’t sell your client on the fact that you’ll create a “WordPress site” for them. Usually, they won’t know about the technology, and they won’t care.&lt;/p&gt;
+
+&lt;p&gt;They do care about the fact that the website you provide them will do the job they need.&lt;/p&gt;
+
+&lt;p&gt;In fact, this applies to just about any situation where the goal is to convince someone. You want to appeal to the emotional side of the person you’re working with.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Appealing to emotions is much more powerful because they have such strong effects on us. Harness the power of emotions when you explain the benefits of what your service does. Harness the power of emotions when you explain why you’re the best freelancer for the job. Harness the power of emotions when you need people to listen to you.&lt;/p&gt;
+
+&lt;p&gt;Stop listing features. Start explaining what you can do for your users, and start gaining customers.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Want some help moving away from feature lists? I’d love to &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#101;&amp;#099;&amp;#117;&amp;#115;&amp;#116;&amp;#111;&amp;#109;&amp;#046;&amp;#099;&amp;#097;"&gt;help you out&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2013-07-27:/articles/business-school/</id>
     <title type="html">Run your business like a school</title>
