@@ -2,13 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski - All Articles</title>
-  <updated>2013-07-31T20:30:00Z</updated>
+  <updated>2013-08-03T15:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/full.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2013-08-03:/articles/it-always-matters/</id>
+    <title type="html">When do your actions really matter?</title>
+    <published>2013-08-03T15:00:00Z</published>
+    <updated>2013-08-03T15:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/it-always-matters/"/>
+    <content type="html">&lt;p&gt;When you were in school, you were probably told countless times that, “This is when it really matters.” “This is when you have to start working hard, because it counts.” “These decisions will form the rest of your life.”&lt;/p&gt;
+
+&lt;p&gt;The truth is, though, it always matters.&lt;/p&gt;
+
+&lt;p&gt;In this case, “it” is your actions. How you carry yourself. How you interact with others. The decisions you make. It’s what you say and do.&lt;/p&gt;
+
+&lt;p&gt;These actions always matter, because they carry through with you for the rest of your life. Inconsequential as some may seem, every decision you make is a part of you, shaping who you are.&lt;/p&gt;
+
+&lt;h2 id="shoddy-decisions"&gt;Shoddy decisions&lt;/h2&gt;
+
+&lt;p&gt;Now, we’re all prone to making some shoddy decisions at some point in our life. We can’t be perfect.&lt;/p&gt;
+
+&lt;p&gt;Are those bad decisions a part of you, too?&lt;/p&gt;
+
+&lt;p&gt;Yes, they are. Even if the actions you took don’t directly influence you anymore, the mistake you made when making that decision should always remain a part of you.&lt;/p&gt;
+
+&lt;h3 id="learn-from-your-mistakes"&gt;Learn from your mistakes&lt;/h3&gt;
+
+&lt;p&gt;These mistakes that make up who we are can be very useful learning tools. By keeping your mistakes in mind, you can form better decisions in the future.&lt;/p&gt;
+
+&lt;p&gt;Look back on situations where you’ve made a bad decision in the past. Why did you make that decision? In future situations, what would you be better off doing?&lt;/p&gt;
+
+&lt;h2 id="awesome-decisions"&gt;Awesome decisions&lt;/h2&gt;
+
+&lt;p&gt;Thankfully, we can all lay claim to a few awesome decisions in our lives. You know the ones I mean, the ones where you reaped serious benefits just because you made them.&lt;/p&gt;
+
+&lt;p&gt;We can learn from these great actions just like we can learn from our mistakes.&lt;/p&gt;
+
+&lt;h3 id="great-actions-are-repeatable"&gt;Great actions… are repeatable&lt;/h3&gt;
+
+&lt;p&gt;You can repeat your great actions. The things that brought you the most reward in your life are likely not actions that were entirely one-off.&lt;/p&gt;
+
+&lt;p&gt;They’re strategies, useful to keep in your back pocket for when you need a boost. Use them wisely.&lt;/p&gt;
+
+&lt;h2 id="it-always-matters"&gt;It always matters&lt;/h2&gt;
+
+&lt;p&gt;Keep in mind that, despite what was implied by your school teachers, it has always mattered. It always will matter.&lt;/p&gt;
+
+&lt;p&gt;What you say and do make up who you are. Just by existing, you’re a public figure, and you need to shape that image of you who are into the person you want to be.&lt;/p&gt;
+
+&lt;p&gt;Remember that what you say and do will always matter. Keep that in mind as you go on to define a better you.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; &lt;a href="https://twitter.com/lchski"&gt;We should meet up on twitter, here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2013-07-31:/articles/stop-listing-features/</id>
     <title type="html">Stop listing features. Start gaining customers.</title>
