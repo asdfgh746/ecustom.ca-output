@@ -2,13 +2,52 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2013-08-07T00:00:00Z</updated>
+  <updated>2013-09-05T19:45:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2013-09-05:/articles/september-2013/</id>
+    <title type="html">A triumphant... update?</title>
+    <published>2013-09-05T19:45:00Z</published>
+    <updated>2013-09-05T19:45:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/september-2013/"/>
+    <content type="html">&lt;p&gt;It’s funny to look around at other people’s sites, because so often you’ll see spurts of activity followed by long periods of silence. It’s unfortunate because sometimes that content is really, really good, and you want to read more of it.&lt;/p&gt;
+
+&lt;p&gt;Usually, right before (or a while after) the content gap, there’s a post which explains the absence. Often the silence is attributed to something like a new job, or other commitments which take up the time that would normally be dedicated to the site.&lt;/p&gt;
+
+&lt;p&gt;Here’s my post to that effect.&lt;/p&gt;
+
+&lt;h2 id="working-hard"&gt;Working hard&lt;/h2&gt;
+
+&lt;p&gt;I’ve taken on a new client. I’m now working for the Liberal Party of Canada, as a contracted web developer.&lt;/p&gt;
+
+&lt;p&gt;It’s fun, new, exciting stuff that I’m happy to have a hand in.&lt;/p&gt;
+
+&lt;p&gt;I should also thank &lt;a href="2013.montreal.wordcamp.org"&gt;WordCamp Montr├®al&lt;/a&gt; for allowing this connection to happen. It was while I waited in line for the complimentary conference ice cream that I met the man who was nice enough to hire me.&lt;/p&gt;
+
+&lt;p&gt;It’s been great work so far, and I look forward to much more of it.&lt;/p&gt;
+
+&lt;h2 id="speaking-words"&gt;Speaking words&lt;/h2&gt;
+
+&lt;p&gt;In more exciting news, my application to speak at &lt;a href="http://2013.toronto.wordcamp.org/"&gt;WordCamp Toronto 2013&lt;/a&gt; has been accepted. I’ll be providing a user oriented session, explaining how best to hire and work with a developer to see your idea to completion.&lt;/p&gt;
+
+&lt;p&gt;It’s coming together nicely, and I’m so excited for the conference. It’s looking to be a great time, once again.&lt;/p&gt;
+
+&lt;h2 id="studying-books"&gt;Studying books&lt;/h2&gt;
+
+&lt;p&gt;Summer flew by, and now it’s time to return to my school and continue with my “day job.” I’m glad to be back.&lt;/p&gt;
+
+&lt;h2 id="so-what-about-articles"&gt;So… what about articles?&lt;/h2&gt;
+
+&lt;p&gt;I’m incredibly proud of the work I put out over the summer. I can’t make any promises that I’ll put out work in the same quantity during this year. (I have a feeling I’ll maintain my high quality standards for essays, though.) It’s looking to be incredibly busy already, and it’ll only get busier as we go along.&lt;/p&gt;
+
+&lt;p&gt;Regardless, there’s a few ideas I’ve got kickin’ around. I’m excited to see where this will all go.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2013-08-06:/articles/design-with-constraints/</id>
     <title type="html">Constraints lead to great design</title>
@@ -204,68 +243,6 @@
 &lt;p&gt;Stop listing features. Start explaining what you can do for your users, and start gaining customers.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;P.S.&lt;/strong&gt; Want some help moving away from feature lists? I’d love to &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#101;&amp;#099;&amp;#117;&amp;#115;&amp;#116;&amp;#111;&amp;#109;&amp;#046;&amp;#099;&amp;#097;"&gt;help you out&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2013-07-27:/articles/business-school/</id>
-    <title type="html">Run your business like a school</title>
-    <published>2013-07-27T19:00:00Z</published>
-    <updated>2013-07-27T19:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/business-school/"/>
-    <content type="html">&lt;p&gt;We can learn a lot from education systems. They’ve worked for years to find organizational structures that work for them, and we can improve our businesses a lot by modelling ourselves after their proven models.&lt;/p&gt;
-
-&lt;p&gt;There are two common school models:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The “integrated” approach, where students from kindergarten to grade 8 are all in the same building.&lt;/li&gt;
-  &lt;li&gt;The “dedicated” approach, where the entire school is composed of students in grade 7 and 8.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Each has their own benefits and downfalls. Your business will be better off if you adopt the first approach.&lt;/p&gt;
-
-&lt;h2 id="put-everyone-together-and-watch-progress-happen"&gt;Put everyone together and watch progress happen&lt;/h2&gt;
-
-&lt;p&gt;The integrated approach is awesome for business. Think of each specialty in your team as a different grade. Depending on your business, you might have designers, developers, and copywriters.&lt;/p&gt;
-
-&lt;p&gt;Bring all these talents into close proximity with one another. This lets them work with each other, finding partners who complement their skills so that they can build awesome products together.&lt;/p&gt;
-
-&lt;p&gt;Encourage passive collaboration like this. It allows skills to come together which might not have otherwise.&lt;/p&gt;
-
-&lt;h2 id="build-culture-by-encouraging-mingling"&gt;Build culture by encouraging mingling&lt;/h2&gt;
-
-&lt;p&gt;Passive collaboration works great, but there comes a time when you need to encourage members of your team to get to know each other on non-work terms.&lt;/p&gt;
-
-&lt;p&gt;We see this in the schools with “reading buddy” programs, where older grades go read with the younger grades. This is forced mingling, and it helps to build a sense of community by forcing people to meet who may not have otherwise. &lt;/p&gt;
-
-&lt;p&gt;Building this community is essential. It becomes the lifeblood of your organization, your company culture.&lt;/p&gt;
-
-&lt;p&gt;You want a good company culture, so encourage its growth by encouraging people to get to know each other.&lt;/p&gt;
-
-&lt;p&gt;I’m not suggesting you go right now and tell two people on your team to start reading to each other. Provide venues through which your team gets together and can get to know each other.&lt;/p&gt;
-
-&lt;p&gt;This can be as simple as your whole team having lunch together (and not talking about work), or as elaborate as a one week retreat to a sunny destination.&lt;/p&gt;
-
-&lt;p&gt;Choose the mingling style that works for you and your team.&lt;/p&gt;
-
-&lt;h2 id="be-a-facilitator"&gt;Be a facilitator&lt;/h2&gt;
-
-&lt;p&gt;Teachers in integrated schools are facilitators. They provide the place for different people to come together, and then they step back.&lt;/p&gt;
-
-&lt;p&gt;You can do a great service to your business by providing that space for people to come together, both in a working context and in a casual context. Your business should have a work/life balance, and you want the opportunities you afford your team to reflect that.&lt;/p&gt;
-
-&lt;p&gt;Bring everybody together, both for work and for life.&lt;/p&gt;
-
-&lt;p&gt;For work, you want to put all your skills in one place. There’s little point in separating out these skills, because that creates walled gardens where you have complex processes to communicate between “departments.”&lt;/p&gt;
-
-&lt;p&gt;Walled gardens are bad.&lt;/p&gt;
-
-&lt;p&gt;For life, you want all your awesome people to get to know each other. Provide opportunities for them to befriend one another.&lt;/p&gt;
-
-&lt;p&gt;After all, who doesn’t prefer working with friends?&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Work hard to bring about these changes within your organization. Run it like a school, and enjoy the benefits.&lt;/p&gt;
 </content>
   </entry>
 </feed>
