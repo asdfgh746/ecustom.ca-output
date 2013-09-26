@@ -15,7 +15,9 @@
     <published>2013-09-26T04:00:00Z</published>
     <updated>2013-09-26T04:00:00Z</updated>
     <link rel="alternate" href="http://ecustom.ca/articles/the-boy-on-the-bus/"/>
-    <content type="html">&lt;p&gt;I met a boy on the bus today. He’s 7 years old, in grade 2 at a local school.&lt;/p&gt;
+    <content type="html">&lt;p class="article-info"&gt;
+I met a boy on the bus today. He's 7 years old, in grade 2 at a local school.
+&lt;/p&gt;
 
 &lt;p&gt;The first thing he said to me was that he was, “[thankful] there’s no bees in the bus!” He went on to describe his life at school. He’s got two teachers (though he’s not sure why), and his favourite thing to do is recess.&lt;/p&gt;
 
