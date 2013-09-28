@@ -576,7 +576,7 @@ At WordCamp Atlanta 2013, &lt;a href="https://twitter.com/jamesdalman"&gt;James 
 I do all my writing in the open. Anyone can view what I'm working on, the ugly drafts and the stupid ideas, at any time. This rocks.
 &lt;/p&gt;
 
-&lt;p&gt;How do I write in the open? For those adventurous few who want to delve into my site’s &lt;a href="https://github.com/asdfgh746/ecustom.ca"&gt;GitHub repo&lt;/a&gt;, they can see all the writing I have. They can see the finished articles, the drafts, and the discarded but never deleted ideas. It’s all there.&lt;/p&gt;
+&lt;p&gt;How do I write in the open? For those adventurous few who want to delve into my site’s &lt;a href="https://github.com/lchski/ecustom.ca"&gt;GitHub repo&lt;/a&gt;, they can see all the writing I have. They can see the finished articles, the drafts, and the discarded but never deleted ideas. It’s all there.&lt;/p&gt;
 
 &lt;h2 id="be-accountable"&gt;Be accountable&lt;/h2&gt;
 
@@ -1245,7 +1245,7 @@ A fresh coat of paint is a useful thing to throw around. It can lead to better l
 
 &lt;p&gt;I depended a lot more upon git and the features it provides for this version. The power of branching was much appreciated as I worked to solve different problems, because I could try out different solutions and switch quickly between them.&lt;/p&gt;
 
-&lt;p&gt;One thing which I did a bit overzealously with this workflow was commit. If you look at the &lt;a href="https://github.com/asdfgh746/ecustom.ca/commits/master"&gt;repo for this site&lt;/a&gt;, you’ll see that, before the redesign, I had committed 32 times from October 2012 to June 2013. Since starting upon my redesign journey, I’ve committed 85 times over 4 days.&lt;/p&gt;
+&lt;p&gt;One thing which I did a bit overzealously with this workflow was commit. If you look at the &lt;a href="https://github.com/lchski/ecustom.ca/commits/master"&gt;repo for this site&lt;/a&gt;, you’ll see that, before the redesign, I had committed 32 times from October 2012 to June 2013. Since starting upon my redesign journey, I’ve committed 85 times over 4 days.&lt;/p&gt;
 
 &lt;p&gt;In future workflows, I’ll try to not commit incremental changes as much as I did here. I’d like my commit style to be a bit more restrained, and perhaps limit it to implementation of features, or significant work towards doing so.&lt;/p&gt;
 
@@ -1541,7 +1541,7 @@ Sleep. It’s one of the most essential parts of our well-being and yet so many 
 
 &lt;p&gt;A possible solution to this is to, instead of using a new element, use the proposed &lt;code&gt;target&lt;/code&gt; CSS property to say where the markup should move &lt;em&gt;relative to an existing element&lt;/em&gt;. What do I mean by this? Perhaps this code would help to demonstrate:&lt;/p&gt;
 
-&lt;script src="https://gist.github.com/asdfgh746/4711456.js"&gt;&lt;/script&gt;
+&lt;script src="https://gist.github.com/lchski/4711456.js"&gt;&lt;/script&gt;
 
 &lt;p&gt;Here, we say that the markup should be moved in the document structure relative to already existing elements. For tablet devices, this means positioning it after the &lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt; element, and for desktop devices it means positioning it after the &lt;code&gt;&amp;lt;small&amp;gt;&lt;/code&gt; element contained within the &lt;code&gt;&amp;lt;header&amp;gt;&lt;/code&gt;. We use regular CSS selectors to select the element we wish to position it after. If we wanted to position it before, we would substitute &lt;code&gt;after&lt;/code&gt; in the code with &lt;code&gt;before&lt;/code&gt;.&lt;/p&gt;
 
@@ -1717,7 +1717,7 @@ I decided WordPress was a good candidate. I had experience with it before when I
 
 &lt;h2 id="other-benefits-of-nanoc"&gt;Other Benefits of nanoc&lt;/h2&gt;
 
-&lt;p&gt;Using nanoc also provides me some additional benefits. Namely, I get to open-source my whole website! That’s right, the &lt;a href="https://github.com/asdfgh746/ecustom.ca" title="GitHub - asdfgh746/ecustom.ca"&gt;code for this site&lt;/a&gt; is available on GitHub. You’ll need nanoc to generate it, but you can look through it and hopefully learn about the operation of nanoc.&lt;/p&gt;
+&lt;p&gt;Using nanoc also provides me some additional benefits. Namely, I get to open-source my whole website! That’s right, the &lt;a href="https://github.com/lchski/ecustom.ca" title="GitHub - lchski/ecustom.ca"&gt;code for this site&lt;/a&gt; is available on GitHub. You’ll need nanoc to generate it, but you can look through it and hopefully learn about the operation of nanoc.&lt;/p&gt;
 
 &lt;p&gt;With the code being open-source and available on GitHub, it also means the entire site is managed by git. This means that I can version control all my articles and versions of my site. No more WordPress revisions which kinda-sorta make sense, just commits which I manage and control.&lt;/p&gt;
 
