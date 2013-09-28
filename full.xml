@@ -660,7 +660,7 @@ My writing workflow has evolved considerably over the past few years, going from
   &lt;li&gt;
     &lt;p&gt;The actual publishing process (step 6) is a major pain.&lt;/p&gt;
 
-    &lt;p&gt;When I publish something, I have to first format the file in Markdown using a special header to provide the article metadata. Then, I have to commit it to git, and push it to my &lt;a href="https://github.com/asdfgh746/ecustom.ca"&gt;GitHub repo for this website&lt;/a&gt;. Then, I have to rebuild the site using nanoc, commit the results of that to git repo and push that repo to &lt;a href="https://github.com/asdfgh746/ecustom.ca-output"&gt;Github&lt;/a&gt;. Finally, I have to SSH into my web server and &lt;code&gt;git pull&lt;/code&gt; the repo back down from GitHub.&lt;/p&gt;
+    &lt;p&gt;When I publish something, I have to first format the file in Markdown using a special header to provide the article metadata. Then, I have to commit it to git, and push it to my &lt;a href="https://github.com/lchski/ecustom.ca"&gt;GitHub repo for this website&lt;/a&gt;. Then, I have to rebuild the site using nanoc, commit the results of that to git repo and push that repo to &lt;a href="https://github.com/lchski/ecustom.ca-output"&gt;Github&lt;/a&gt;. Finally, I have to SSH into my web server and &lt;code&gt;git pull&lt;/code&gt; the repo back down from GitHub.&lt;/p&gt;
 
     &lt;p&gt;Now, this is largely self-inflicted due to my insistence on using &lt;a href="http://nanoc.ws"&gt;nanoc&lt;/a&gt; to publish instead of a dynamic system like &lt;a href="http://wordpress.org"&gt;WordPress&lt;/a&gt;; but it helps to illustrate the point that a good writing process, and thus a good writing system, should be easy to publish from.&lt;/p&gt;
   &lt;/li&gt;
