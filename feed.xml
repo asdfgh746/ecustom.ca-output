@@ -31,7 +31,12 @@
 
 &lt;p&gt;I’ll close this little update with a quote from one of my favourite journalists. Let this be one of your references in this New Year of change:&lt;/p&gt;
 
-&lt;p&gt;“Seek the truth, keep people honest, explore the world, and laugh at the absurdity of it all.” — Walter Cronkite&lt;/p&gt;
+&lt;figure class="block-quote"&gt;
+	&lt;blockquote&gt;Seek the truth, keep people honest, explore the world, and laugh at the absurdity of it all.&lt;/blockquote&gt;
+	&lt;figcaption&gt;
+		&lt;p&gt;Walter Cronkite&lt;/p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
 </content>
   </entry>
   <entry>
