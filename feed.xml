@@ -2,13 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2014-05-29T21:00:00Z</updated>
+  <updated>2014-06-04T23:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-06-04:/articles/ice-cream-time/</id>
+    <title type="html">Ice Cream Time</title>
+    <published>2014-06-04T23:00:00Z</published>
+    <updated>2014-06-04T23:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/ice-cream-time/"/>
+    <content type="html">&lt;p&gt;I have a special time each night. I call it my “ice cream time”. It’s the period of time I spend each night dishing out, consuming, and appreciating my chocolate ice cream.&lt;/p&gt;
+
+&lt;p&gt;To others and, to be honest, to myself at times, this near dependency on frozen milk may appear detrimental to me. But I keep at it for more than just habit’s sake, and for more than just because of the chocolatey taste.&lt;/p&gt;
+
+&lt;p&gt;I persist with my ice cream time because of the grander opportunity it offers me for peace. When I’m eating that ice cream, I’m cut off entirely. I’m not tabbing, texting, or tweeting my way to anything that could distract me from that moment. For a person who struggles a lot with the implementation of mindfulness, that opportunity to cut off each night via ice cream is a delightful respite.&lt;/p&gt;
+
+&lt;p&gt;You see, we’re caught up in a culture which never wants to cut off. Our devices demand our attention, demanding we keep in touch with whomever is on the other side of them.&lt;/p&gt;
+
+&lt;p&gt;Oftentimes we’re not even using these devices for active communication, choosing instead to use them passively: reading through your Twitter feed, your Facebook stream, or your inbox. We choose to cut ourselves out of whatever is directly at hand, being easily distracted and finding it hard to keep focused on what’s in front of us. Just now, while writing that sentence, I opened a new Facebook tab to check something based on a thought I’d had. Following through on that Facebook activity wouldn’t have generated any further benefit to my writing, the task at hand. Rather, it would’ve just sidetracked me and caused me to forget entirely what I was thinking about. We give up our ability to think and consider when we’re constantly switching what we’re doing. &lt;em&gt;Thinking takes time&lt;/em&gt;, contrary to whatever the makers of our devices and apps want us to think.&lt;/p&gt;
+
+&lt;p&gt;Our devices demand efficiency of us. The corollary is also true; we demand efficiency of them. But our demands of efficiency are misguided.&lt;/p&gt;
+
+&lt;p&gt;We demand our phones be quick at loading Facebook so that we can swiftly move on to checking Twitter. After we’ve processed the incremental updates that we’ve received there, we’ll move over to the one new email sitting in our inbox before heading back to Facebook to see what update from a friend is awaiting us. We demand speed from our devices so that we can quickly move on to the next task that they offer us, spending our time with them in a never-ending cycle which provides little appreciable long-term gain.&lt;/p&gt;
+
+&lt;p&gt;But does it have to be this way?&lt;/p&gt;
+
+&lt;p&gt;Why can’t we demand efficiency of our devices for a different reason? Why can’t we demand quick services not to be able to consume many of them in less time, but to be able to consume a service and then &lt;em&gt;move on with our lives&lt;/em&gt;. And not the life tied up in those multiple devices of ours, but the life beyond them. The &lt;em&gt;real&lt;/em&gt; life. Yes, I went there.&lt;/p&gt;
+
+&lt;p&gt;Our lives online are largely fabricated. There’s little disagreement when I assert that, when online, we put forth only our best face. The web is our ultimate bragging grounds, the place where we thump our chests only to perpetuate more chest thumping, and for little reason more. So if we’re spending time curating the best bits of our life for display online, can we actually refer to that as our &lt;em&gt;real&lt;/em&gt; life? Sure, it’s a part of it, but it isn’t the one we truly experience.&lt;/p&gt;
+
+&lt;p&gt;Beyond our own contributions to the web, consider what it is we’re most often doing here. &lt;em&gt;Passively taking in the activities of others.&lt;/em&gt; We’re not even taking in the curated version of ourselves, but of others! What value can we gain by only looking at the lives of others and comparing our own perspective, an uncensored version of ourselves, to their lives, heavily censored and curated versions of themselves?&lt;/p&gt;
+
+&lt;p&gt;The web is valuable when we use it for active communication. Why don’t we use the web for what it makes sense for, to communicate with others to &lt;em&gt;get things done&lt;/em&gt;? It’s a waste of an amazing resource to do otherwise, a foolish waste of our own lives spent consuming those of other people.&lt;/p&gt;
+
+&lt;p&gt;We need to wake up to the intention of our activities online. We need to be unafraid to cut ourselves off from the distracting, unfulfilling overconsumption made so convenient by the web. We need to focus on &lt;em&gt;our&lt;/em&gt; lives, on our real lives.&lt;/p&gt;
+
+&lt;p&gt;Those lives don’t live on the internet. They live outside of it.&lt;/p&gt;
+
+&lt;p&gt;Take some “ice cream time”. Take some time to focus on your life outside of the internet.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-05-29:/articles/notification-lights/</id>
     <title type="html">Distracting Notification Lights</title>
@@ -87,45 +124,6 @@
 &lt;p&gt;Whatever you have to do, do it. Wherever you have to go, go there. And when should you do it? Whenever complacency begins grabbing at you. Chances are that that’s the case right now. It’s time for a change of scenery. It’s time for you to find your own hard floor.&lt;/p&gt;
 
 &lt;p&gt;Enjoy the new view.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2013-10-02:/articles/before-wordcamp-toronto-2013/</id>
-    <title type="html">Before WordCamp Toronto 2013</title>
-    <published>2013-10-02T21:00:00Z</published>
-    <updated>2013-10-02T21:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/before-wordcamp-toronto-2013/"/>
-    <content type="html">&lt;p class="article-intro"&gt;
-WordCamp Toronto is coming up soon! This weekend, 400 people will descend upon Humber College's Lakeshore Campus in Toronto to engage in a few days of WordPress-driven fun.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;a href="http://2013.toronto.wordcamp.org"&gt;WordCamp Toronto&lt;/a&gt; (WCTO) has done something a bit different than most WordCamps. WCTO has a bit of a history doing this, though. &lt;a href="http://ecustom.ca/articles/wcto-developers-2012/"&gt;Last year&lt;/a&gt; they were one of the first WordCamps to try a split users/developers conference. While it was a huge success, the doubled organizational hassles were too much in the end, leaving us with a larger combined conference this year. Different for this year, though, is that the second day is composed entirely of panels and workshops.&lt;/p&gt;
-
-&lt;p&gt;This means the first day is packed with presentations (4 tracks in total), guaranteeing that all attendees will be able to get something out of it.&lt;/p&gt;
-
-&lt;h2 id="speaking"&gt;Speaking&lt;/h2&gt;
-
-&lt;p&gt;Exciting for me personally is that I’ll be speaking on Saturday! I’m very grateful to the organizing committee for accepting my application, and I’m looking forward to delivering my first ever conference talk.&lt;/p&gt;
-
-&lt;p&gt;I’ll be talking to users about how to hire a developer. This talk presents some interesting challenges, because the audience isn’t necessarily one I associate with as well as I do with developers. However, going out of my comfort zone is exciting for me, and I’m confident I’ll be able to pull this off.&lt;/p&gt;
-
-&lt;p&gt;The slides for my talk along with a post-mortem will be put up sometime after the conference.&lt;/p&gt;
-
-&lt;h2 id="meet-the-people"&gt;Meet the people&lt;/h2&gt;
-
-&lt;p&gt;Before attending conferences, setting goals is something I believe in doing.&lt;/p&gt;
-
-&lt;p&gt;With &lt;a href="http://ecustom.ca/articles/before-wordcamp-montreal-2013/"&gt;WordCamp Montréal&lt;/a&gt; I’d wanted to champion discussions about WordPress’ potential role in education. That resulted in some really insightful results, and I’m sure I’ll bring it up again.&lt;/p&gt;
-
-&lt;p&gt;However, what I’d like to focus on in Toronto this weekend is getting to know the users. Too often, we as developers get caught up in our own little world and forget that it’s essential that we get to know the people we work for, both financially and otherwise.&lt;/p&gt;
-
-&lt;p&gt;Furthermore, I’ll be &lt;a href="http://ecustom.ca/articles/get-more-from-talks/"&gt;asking questions&lt;/a&gt; and sitting in the front rows. These are the best ways to get results out of conferences, and I intend to employ them well.&lt;/p&gt;
-
-&lt;h2 id="the-final-countdown"&gt;The final countdown&lt;/h2&gt;
-
-&lt;p&gt;The weekend is approaching very quickly! WCTO is looking to be an excellent event, and I’m excited to see it all come together.&lt;/p&gt;
-
-&lt;p&gt;If you’re in attendance, make sure to give me a shout! I’m more than happy to have a chat at any time during the event. &lt;a href="https://twitter.com/lchski"&gt;Send me a tweet&lt;/a&gt; or pick me out of the crowd, I look forward to meeting you.&lt;/p&gt;
 </content>
   </entry>
 </feed>
