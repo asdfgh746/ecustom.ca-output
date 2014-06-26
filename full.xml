@@ -2,13 +2,101 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski - All Articles</title>
-  <updated>2014-06-20T00:00:00Z</updated>
+  <updated>2014-06-26T22:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/full.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-06-26:/articles/thursdays/</id>
+    <title type="html">Thursdays</title>
+    <published>2014-06-26T22:00:00Z</published>
+    <updated>2014-06-26T22:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/thursdays/"/>
+    <content type="html">&lt;p&gt;I like Thursdays.&lt;/p&gt;
+
+&lt;p&gt;They’re a delightful, safe day of the week. They’re also the day I get a lot of my writing done. I find them to be a great day for this—by the time I’m writing on Thursday, about four days worth of “out-and-about” experiences will have accumulated, giving me plenty to think and write about.&lt;/p&gt;
+
+&lt;p&gt;But Thursdays aren’t just my writing day. They’ve become my publishing day. (I don’t write and then publish same-day. Some editing is always in order.)&lt;/p&gt;
+
+&lt;p&gt;Each Thursday for the past few weeks, I’ve been publishing something here.&lt;/p&gt;
+
+&lt;p&gt;I started by talking about the &lt;a href="/articles/notification-lights/"&gt;notification light on my phone&lt;/a&gt; and how I’ve shut it off, so that I can focus on the task at hand and be “in the moment” more often. Since then, I’ve disabled notifications on my phone &lt;em&gt;entirely&lt;/em&gt;, meaning that I’m no longer unintentionally interrupted from what I’m doing—at least as far as my phone is concerned.&lt;/p&gt;
+
+&lt;p&gt;In a similar theme, I shared a story about &lt;a href="/articles/ice-cream-time/"&gt;my ice cream time&lt;/a&gt;, which I set aside each night in order to get a moment of peace from the unfortunate busyness of technology. I also talked a bit about the idea of efficiency and how tech should be efficient not to get more done, but to give us more time to live life.&lt;/p&gt;
+
+&lt;p&gt;Departing from my regular style a bit, I published a (very) &lt;a href="/articles/on-struggling-and-death/"&gt;short story about death&lt;/a&gt;, inspired by the idea that there’s always multiple sides to consider in an issue, and that we can’t presume to know how another feels about a situation.&lt;/p&gt;
+
+&lt;p&gt;Last week, I published a &lt;a href="/articles/passion-not-pressure/"&gt;defense of procrastination&lt;/a&gt;, wherein I conveniently redefined procrastination to mean that I’m waiting for an impassioned moment to strike, enabling me to put out something great under a seemingly restricted schedule. There, I also talked about creative restraints, something &lt;a href="/articles/design-with-constraints/"&gt;I’ve discussed before&lt;/a&gt;, and how they can enable us in those desperate final moments to produce when all other methods seem to fail.&lt;/p&gt;
+
+&lt;p&gt;Today, I wrote &lt;a href="/articles/edit-your-own-voice/"&gt;a bit about editing&lt;/a&gt; for the purpose of learning about your own voice and how you like to verbalize your ideas. There’s no better way to learn about what you like or dislike than by seeing it in someone else’s work.&lt;/p&gt;
+
+&lt;p&gt;I’d like to keep this regular publishing up. We’ll see how that goes.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;em&gt;If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. This is to cover the past few months, because it’s been &lt;a href="/articles/september-2013/"&gt;a while since I’ve done this last&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;Dear friend who I know, or person who wants to be my friend but I don’t know (in which case, &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;get in touch&lt;/a&gt;), or person who is on a deep internet dive and has chanced across my work:&lt;/p&gt;
+
+&lt;p&gt;I finished another year of school and realized that my educational passion is for the liberal arts and design.&lt;/p&gt;
+
+&lt;p&gt;Working for two friends, Sonja Katanic and Emma Cohen, I did the web design and some editing for their online magazine, &lt;a href="http://plasmadolphin.com/"&gt;Plasma Dolphin&lt;/a&gt;. The adjectives I’ve heard used to describe it include “rad”, “wicked”, and “funky” (okay, that last one was me), and I encourage you to check it out. This project for me has been (and will continue to be) an exercise in patience and last-minute productivity as I race to meet deadlines, but I love those friends and I love Plasma. Publication work is fun. I enjoy it to no end.&lt;/p&gt;
+
+&lt;p&gt;I spoke at WordCamp Ottawa in May. I talked (again) about &lt;a href="http://2014.ottawa.wordcamp.org/sessions/#post-850416"&gt;how to work with developers&lt;/a&gt;, a talk which I tweaked and love but have now semi-retired. (You can check out &lt;a href="https://speakerdeck.com/lchski/be-the-perfect-client-round-2"&gt;the slides&lt;/a&gt;, if you wish.) Being in Ottawa for the conference reminded me yet again why I love that city so much. There’s a feeling to it that I haven’t gotten in many other places—something to do with it being the nation’s capital city, I think. Capital cities are always special places.&lt;/p&gt;
+
+&lt;p&gt;Looking again at the work side of things, I’ve been keeping a fairly low profile of steady work. Right now I’m working on an exciting project with a local real estate group, which is enabling me to play with WordPress in ways I never have before. An article (or talk) will probably come out of that in the future; it’s an ideal candidate for a case study.&lt;/p&gt;
+
+&lt;p&gt;And of the future? Well, I’m taking on an interesting role this summer in addition to being a designer: I’ll be building actual physical things! In this case, an addition to my house. Maybe this’ll finally give me something of an appreciation for what “tools” &lt;em&gt;actually&lt;/em&gt; are, and what “craftsmen” &lt;em&gt;really&lt;/em&gt; do. I’ll also be at &lt;a href="http://2014.montreal.wordcamp.org/"&gt;WordCamp Montréal&lt;/a&gt; come August. Not as a speaker, but as an enthusiastic attendee once again.&lt;/p&gt;
+
+&lt;p&gt;I’m doing more and more with my life, but I’m feeling less and less of the tiredness that plagued me over the past few months. There are plenty of possible reasons for that fatigue, but I’m not up to consider them at the moment—I just want to take advantage of this energy and do things!&lt;/p&gt;
+
+&lt;p&gt;Expect more writing. I say that with a confidence that I’ve not had for a while about publishing.&lt;/p&gt;
+
+&lt;p&gt;Let’s stay in touch, yes? &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt; or &lt;a href="https://twitter.com/lchski"&gt;Twitter&lt;/a&gt; are both great. If you’d rather write letters (which are awesome), reach out to me on one of those platforms and we’ll exchange addresses.&lt;/p&gt;
+
+&lt;p&gt;This update has been a refreshing departure from my regular writings here. But I don’t expect them to be too common—there’s far too many other things to write about than my own life.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <id>tag:ecustom.ca,2014-06-26:/articles/edit-your-own-voice/</id>
+    <title type="html">Edit, not write, to find your own voice</title>
+    <published>2014-06-26T16:00:00Z</published>
+    <updated>2014-06-26T16:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/edit-your-own-voice/"/>
+    <content type="html">&lt;p&gt;I spend a lot of time editing.&lt;/p&gt;
+
+&lt;p&gt;When writing comes difficult, I’ve often found editing to be a productive method to use to get me focused again and to enable a return to vocalizing ideas. To this end, I’ve got something of a standing offer with friends to edit whatever writing of theirs they’d like me to—no charge, no reciprocation necessary, just me taking in pieces and polishing them up a bit.&lt;sup id="fnref:editing-offer"&gt;&lt;a href="#fn:editing-offer" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; Doing this has made me realize the power of an individual’s voice in writing and just how it can affect the opinion being presented.&lt;/p&gt;
+
+&lt;p&gt;When taking in these pieces from friends, I encounter a lot of different voices and writing styles. One of my friends whose pieces I frequently edit has a very expressive, flowery style, while another has a more fact-driven, logical approach. Both styles allow the author to argue a point effectively, but what makes one author distinct from another is the style they choose to employ.&lt;/p&gt;
+
+&lt;p&gt;To really understand what I’m going to get at concerning writing styles, we’ve got to look at the Modernist philosophical movement. Though there’s a lot more to the movement than just what I’m referencing, Modernism was an attempt by artists (authors being the relevant sort here) to forward their messages in ways both direct and indirect. We see this really clearly with the (crazy excellent) writing of James Joyce, who helped popularize the idea that not only is the story of a novel important, the &lt;em&gt;what&lt;/em&gt;, but also the way in which that story is told, the &lt;em&gt;how&lt;/em&gt; of the writing. One of my favourite examples of this is found in Joyce’s &lt;em&gt;A Portrait of the Artist as a Young Man&lt;/em&gt;. The writing in that book gets more convoluted and complicated whenever the main character, Stephen, is grappling with difficult ideas or trying to understand the significance of something in a big way. When Stephen’s having an easier go of life, though, the writing itself eases up and the language becomes far simpler to understand. Joyce was employing both the plot and his surrounding style in order to press on his readers the real message which he intended. (It’s no coincidence that Joyce’s work has an &lt;a href="http://www.utulsa.edu/jjq/"&gt;entire quarterly journal&lt;/a&gt;, published regularly since 1963, dedicated to analysing it, because this extra level of complexity made the interpretations of Joyce’s works far more numerous!) Modernism was an attempt to use artistic mediums—in this case, language—to say something about the works they were used to create.&lt;/p&gt;
+
+&lt;p&gt;Returning to my two friends and their styles, I find editing to be an educational experience, forcing me to walk the fine line between deleting their personal style—which tells readers about their message in an important way supplementary to the content itself—and refining it into a more cohesive whole. Assuming that these folks are at all conscious about how they’re writing (which I know them to be), it’s fair to say that the way they write is intentional. It’s important, then, to try to preserve that style as best as possible while preventing it from detracting from the message itself. With the flowery friend, I sometimes think a toning-down is appropriate to keep the message clear, while with my logical friend I sometimes suggest a bit more fire for their words to reflect the passion which I know they possess in their heart. This kind of editing is most reliably achieved when the editor and the edited know each other well enough that the editor can gather what it is the edited really means to say.&lt;/p&gt;
+
+&lt;p&gt;Through all this editing, I’ve realized something important about the nature of writing and words, something which Joyce and his Modernist friends grasped and carried out so effectively: it is just as much about &lt;em&gt;how&lt;/em&gt; you say things as it is &lt;em&gt;what&lt;/em&gt; you’re saying.&lt;/p&gt;
+
+&lt;p&gt;A dry, academic tone on the most interesting subject will still manage to make that subject feel dry and boring. On the other hand, an over-zealous approach can also turn readers away, making them uncomfortable. Clear, concise, impassioned reasoning will always win out over either of the two, because it appeals both to people’s desire for knowledge and their desire to feel.&lt;/p&gt;
+
+&lt;p&gt;If you don’t know what that voice or style feels like to you, the best way to figure that out is to actually edit things yourself! Trying to discover it by writing can be a futile process, because you’re more likely than not to get stuck and bogged down writing with the same old voice you’ve always used. Through editing you might find that that voice doesn’t present the right version of you and your thoughts that you intend it to—seeing the “mistakes” in others’ writing is far easier than in your own!&lt;/p&gt;
+
+&lt;p&gt;One other thing that leads to figuring out that voice is being honest and respectful in your writing. Those two things, when combined in a considered manner (considered meaning that respectful doesn’t require you to always be nice, but that you should always be appropriate), lend an air of genuineness to your writing. If &lt;em&gt;how&lt;/em&gt; you say your message is just as important as &lt;em&gt;what&lt;/em&gt; you’re saying, then I reckon being genuine is a pretty good way to do it.&lt;/p&gt;
+
+&lt;p&gt;Edit a ton. Realize that your writing may not be saying at all what you mean it to. Edit your own words to bring it there, and then bring in others who really know you to help you along further. Asking for help is one of the most genuine things you can do.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div class="footnotes"&gt;
+  &lt;ol&gt;
+    &lt;li id="fn:editing-offer"&gt;
+      &lt;p&gt;&lt;em&gt;Side-note&lt;/em&gt;: If you’d like me to do some editing for you, I’d be happy to oblige. Feel free to &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;send any piece of writing&lt;/a&gt; you like to me and I’ll do my best to help you out. (Fair warning: if you send me your master’s dissertation, I may take a bit longer to get back to you.) &lt;a href="#fnref:editing-offer" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-06-19:/articles/passion-not-pressure/</id>
     <title type="html">Work under Passion, Not Pressure</title>
@@ -48,10 +136,10 @@
 </content>
   </entry>
   <entry>
-    <id>tag:ecustom.ca,2014-06-04:/articles/ice-cream-time/</id>
+    <id>tag:ecustom.ca,2014-06-05:/articles/ice-cream-time/</id>
     <title type="html">Ice Cream Time</title>
-    <published>2014-06-04T23:00:00Z</published>
-    <updated>2014-06-04T23:00:00Z</updated>
+    <published>2014-06-05T23:00:00Z</published>
+    <updated>2014-06-05T23:00:00Z</updated>
     <link rel="alternate" href="http://ecustom.ca/articles/ice-cream-time/"/>
     <content type="html">&lt;p&gt;I have a special time each night. I call it my “ice cream time”. It’s the period of time I spend each night dishing out, consuming, and appreciating my chocolate ice cream.&lt;/p&gt;
 
