@@ -2,13 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2014-06-26T22:00:00Z</updated>
+  <updated>2014-07-04T03:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-07-03:/articles/publish-publish-publish/</id>
+    <title type="html">Publish, publish, publish!</title>
+    <published>2014-07-04T03:00:00Z</published>
+    <updated>2014-07-04T03:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/publish-publish-publish/"/>
+    <content type="html">&lt;p&gt;I mentioned in my &lt;a href="/articles/thursdays/"&gt;life-and-writing recap&lt;/a&gt; last week that I’ve been publishing something new here each Thursday for the past five (now six!) weeks, which is a marked improvement over my previous record of spotty postings over the course of months.&lt;/p&gt;
+
+&lt;p&gt;Keeping to a publishing schedule has been interesting.&lt;/p&gt;
+
+&lt;p&gt;On one hand, it’s encouraged me to have a steady stream of words flowing from me. Here’s a look at my &lt;a href="https://draftin.com"&gt;Draft&lt;/a&gt; writing stats for the past two weeks:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="/assets/img/draft-word-count.png" alt="Chart depicting a words-per-day count ranging from 250–3200 over a two week period." /&gt;&lt;/p&gt;
+
+&lt;p&gt;Knowing that I expect myself to put something up on Thursday encourages me to write down thoughts and expand them into coherent pieces whenever I can. This has led me to view writing as something which can (and must) be practiced, and to, well, practice it. The weekly publishing has encouraged that practice in a very effective way.&lt;/p&gt;
+
+&lt;p&gt;On the other hand, though, I kind of worry about the quality it promotes. If I’m expecting myself to publish every week, am I expecting something great every week? Well, no. Not anymore, at least.&lt;/p&gt;
+
+&lt;p&gt;For a while I thought it essential that anything and everything published here was of the highest quality. Then I realized I couldn’t really measure that, that whenever I published a “greater” piece, the rest would then become of the not-highest quality. It was about this time that I realized that this quality comes naturally with time, through the aforementioned practice of writing. (Although there’s still a lot of not-great writing produced after tons of practice. It’s the same as with any skill.)&lt;/p&gt;
+
+&lt;p&gt;The final benefit I’d like to bring up with regards to this regular posting is that it encourages—or, in some cases, forces—me to publish old drafts that I’ve edited (or at least written completely) which might otherwise languish, unread, never being seen by the eyes of anyone but myself. That’s a sad fate for any writing, I think; writing demands to be read. I’m increasingly of the opinion that it’s worth it to publish your old stuff which you still agree with. It’s good for the soul.&lt;/p&gt;
+
+&lt;p&gt;Keeping to a regular writing schedule is important. It helps you practice what can be a really difficult skill to work at. Equally important, though, is to actually publish whatever you’re writing. Even if it feels like it’s shit to you, it’s probably worth publishing.&lt;/p&gt;
+
+&lt;p&gt;If it helps just one person or makes them think about something different, there’s all the worth you’ve ever needed.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-06-26:/articles/thursdays/</id>
     <title type="html">Thursdays</title>
@@ -133,43 +160,6 @@
 &lt;p&gt;The ceremony continued, with audience members taking their turn at the podium to speak about their experience with him. The underlying theme to the words everyone spoke was that his life had been cut short, ended before he–and they–were ready for it.&lt;/p&gt;
 
 &lt;p&gt;His wife gave the closing words, “We can rest assured that he did not go down without a fight. I know my husband. As he was on his beloved ship, at no point did he consider giving up. Never did he stop trying to overcome the ocean, to get back to us. We can rest assured that he died trying to come back for us, for the life he loved so much.”&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2014-06-05:/articles/ice-cream-time/</id>
-    <title type="html">Ice Cream Time</title>
-    <published>2014-06-05T23:00:00Z</published>
-    <updated>2014-06-05T23:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/ice-cream-time/"/>
-    <content type="html">&lt;p&gt;I have a special time each night. I call it my “ice cream time”. It’s the period of time I spend each night dishing out, consuming, and appreciating my chocolate ice cream.&lt;/p&gt;
-
-&lt;p&gt;To others and, to be honest, to myself at times, this near dependency on frozen milk may appear detrimental to me. But I keep at it for more than just habit’s sake, and for more than just because of the chocolatey taste.&lt;/p&gt;
-
-&lt;p&gt;I persist with my ice cream time because of the grander opportunity it offers me for peace. When I’m eating that ice cream, I’m cut off entirely. I’m not tabbing, texting, or tweeting my way to anything that could distract me from that moment. For a person who struggles a lot with the implementation of mindfulness, that opportunity to cut off each night via ice cream is a delightful respite.&lt;/p&gt;
-
-&lt;p&gt;You see, we’re caught up in a culture which never wants to cut off. Our devices demand our attention, demanding we keep in touch with whomever is on the other side of them.&lt;/p&gt;
-
-&lt;p&gt;Oftentimes we’re not even using these devices for active communication, choosing instead to use them passively: reading through your Twitter feed, your Facebook stream, or your inbox. We choose to cut ourselves out of whatever is directly at hand, being easily distracted and finding it hard to keep focused on what’s in front of us. Just now, while writing that sentence, I opened a new Facebook tab to check something based on a thought I’d had. Following through on that Facebook activity wouldn’t have generated any further benefit to my writing, the task at hand. Rather, it would’ve just sidetracked me and caused me to forget entirely what I was thinking about. We give up our ability to think and consider when we’re constantly switching what we’re doing. &lt;em&gt;Thinking takes time&lt;/em&gt;, contrary to whatever the makers of our devices and apps want us to think.&lt;/p&gt;
-
-&lt;p&gt;Our devices demand efficiency of us. The corollary is also true; we demand efficiency of them. But our demands of efficiency are misguided.&lt;/p&gt;
-
-&lt;p&gt;We demand our phones be quick at loading Facebook so that we can swiftly move on to checking Twitter. After we’ve processed the incremental updates that we’ve received there, we’ll move over to the one new email sitting in our inbox before heading back to Facebook to see what update from a friend is awaiting us. We demand speed from our devices so that we can quickly move on to the next task that they offer us, spending our time with them in a never-ending cycle which provides little appreciable long-term gain.&lt;/p&gt;
-
-&lt;p&gt;But does it have to be this way?&lt;/p&gt;
-
-&lt;p&gt;Why can’t we demand efficiency of our devices for a different reason? Why can’t we demand quick services not to be able to consume many of them in less time, but to be able to consume a service and then &lt;em&gt;move on with our lives&lt;/em&gt;. And not the life tied up in those multiple devices of ours, but the life beyond them. The &lt;em&gt;real&lt;/em&gt; life. Yes, I went there.&lt;/p&gt;
-
-&lt;p&gt;Our lives online are largely fabricated. There’s little disagreement when I assert that, when online, we put forth only our best face. The web is our ultimate bragging grounds, the place where we thump our chests only to perpetuate more chest thumping, and for little reason more. So if we’re spending time curating the best bits of our life for display online, can we actually refer to that as our &lt;em&gt;real&lt;/em&gt; life? Sure, it’s a part of it, but it isn’t the one we truly experience.&lt;/p&gt;
-
-&lt;p&gt;Beyond our own contributions to the web, consider what it is we’re most often doing here. &lt;em&gt;Passively taking in the activities of others.&lt;/em&gt; We’re not even taking in the curated version of ourselves, but of others! What value can we gain by only looking at the lives of others and comparing our own perspective, an uncensored version of ourselves, to their lives, heavily censored and curated versions of themselves?&lt;/p&gt;
-
-&lt;p&gt;The web is valuable when we use it for active communication. Why don’t we use the web for what it makes sense for, to communicate with others to &lt;em&gt;get things done&lt;/em&gt;? It’s a waste of an amazing resource to do otherwise, a foolish waste of our own lives spent consuming those of other people.&lt;/p&gt;
-
-&lt;p&gt;We need to wake up to the intention of our activities online. We need to be unafraid to cut ourselves off from the distracting, unfulfilling overconsumption made so convenient by the web. We need to focus on &lt;em&gt;our&lt;/em&gt; lives, on our real lives.&lt;/p&gt;
-
-&lt;p&gt;Those lives don’t live on the internet. They live outside of it.&lt;/p&gt;
-
-&lt;p&gt;Take some “ice cream time”. Take some time to focus on your life outside of the internet.&lt;/p&gt;
 </content>
   </entry>
 </feed>
