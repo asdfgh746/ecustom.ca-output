@@ -2,13 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2014-07-19T03:00:00Z</updated>
+  <updated>2014-07-25T02:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-07-24:/articles/vinyl/</id>
+    <title type="html">Vinyl, Consideration, and Crap</title>
+    <published>2014-07-25T02:00:00Z</published>
+    <updated>2014-07-25T02:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/vinyl/"/>
+    <content type="html">&lt;p&gt;I like listening to vinyl records. I used to espouse their listening benefits—a “better sound quality” and “more warmth”—but I’ve since stopped that. Now, when I think of vinyl, some different reasons come to mind.&lt;/p&gt;
+
+&lt;p&gt;Vinyl is, first and foremost, a physical medium. The physical nature of records reminds us that their existence in our lives should be considered—they’re not to pile up like meaningless clutter. The way we play a record is also part of its greatness; you’re meant to listen to it from start to finish. This method enforces the idea that we should enjoy the work in its entirety, as opposed to chopping it up and skipping around. It’s like a movie: you’re not supposed to parse it scene-by-scene; it’s the whole that compels you to watch it.&lt;/p&gt;
+
+&lt;p&gt;These two characteristics of records make me think about how we consider things today.&lt;/p&gt;
+
+&lt;p&gt;Are we mindful of what we let into our lives? Whether physical or otherwise, do we consider the place a new object in our life has, or do we just let in new things willy-nilly?&lt;/p&gt;
+
+&lt;p&gt;And when we create these objects for the world, are we creating with the entire picture in mind? Do we create with the intent for an object to be whole, or do we create with the intent for an object to be chopped up and dissected into various parts which, even when brought together, are weaker than the whole?&lt;/p&gt;
+
+&lt;p&gt;I don’t know that we do. I don’t know that we’re applying careful consideration to the new in our lives. I don’t know that we think beyond the immediate nature of our creations. I think we should.&lt;/p&gt;
+
+&lt;p&gt;It’s no good to blindly create without a sense of considered purpose. Why bother, if what we’re adding doesn’t really mean anything?&lt;/p&gt;
+
+&lt;p&gt;I don’t know the answer. I do know that people do it. I certainly do. But maybe there’s value to stopping and thinking about it all a little more. To &lt;em&gt;considering&lt;/em&gt; what and, more importantly, &lt;em&gt;why&lt;/em&gt; we’re working the way we are.&lt;/p&gt;
+
+&lt;p&gt;Our lives are already full of crap. We should consider if it’s worth it to add any more.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-07-18:/articles/intake-control/</id>
     <title type="html">Intake Control</title>
@@ -125,43 +150,6 @@
 &lt;p&gt;Let’s stay in touch, yes? &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt; or &lt;a href="https://twitter.com/lchski"&gt;Twitter&lt;/a&gt; are both great. If you’d rather write letters (which are awesome), reach out to me on one of those platforms and we’ll exchange addresses.&lt;/p&gt;
 
 &lt;p&gt;This update has been a refreshing departure from my regular writings here. But I don’t expect them to be too common—there’s far too many other things to write about than my own life.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2014-06-26:/articles/edit-your-own-voice/</id>
-    <title type="html">Edit, not write, to find your own voice</title>
-    <published>2014-06-26T16:00:00Z</published>
-    <updated>2014-06-26T16:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/edit-your-own-voice/"/>
-    <content type="html">&lt;p&gt;I spend a lot of time editing.&lt;/p&gt;
-
-&lt;p&gt;When writing comes difficult, I’ve often found editing to be a productive method to use to get me focused again and to enable a return to vocalizing ideas. To this end, I’ve got something of a standing offer with friends to edit whatever writing of theirs they’d like me to—no charge, no reciprocation necessary, just me taking in pieces and polishing them up a bit.&lt;sup id="fnref:editing-offer"&gt;&lt;a href="#fn:editing-offer" class="footnote"&gt;1&lt;/a&gt;&lt;/sup&gt; Doing this has made me realize the power of an individual’s voice in writing and just how it can affect the opinion being presented.&lt;/p&gt;
-
-&lt;p&gt;When taking in these pieces from friends, I encounter a lot of different voices and writing styles. One of my friends whose pieces I frequently edit has a very expressive, flowery style, while another has a more fact-driven, logical approach. Both styles allow the author to argue a point effectively, but what makes one author distinct from another is the style they choose to employ.&lt;/p&gt;
-
-&lt;p&gt;To really understand what I’m going to get at concerning writing styles, we’ve got to look at the Modernist philosophical movement. Though there’s a lot more to the movement than just what I’m referencing, Modernism was an attempt by artists (authors being the relevant sort here) to forward their messages in ways both direct and indirect. We see this really clearly with the (crazy excellent) writing of James Joyce, who helped popularize the idea that not only is the story of a novel important, the &lt;em&gt;what&lt;/em&gt;, but also the way in which that story is told, the &lt;em&gt;how&lt;/em&gt; of the writing. One of my favourite examples of this is found in Joyce’s &lt;em&gt;A Portrait of the Artist as a Young Man&lt;/em&gt;. The writing in that book gets more convoluted and complicated whenever the main character, Stephen, is grappling with difficult ideas or trying to understand the significance of something in a big way. When Stephen’s having an easier go of life, though, the writing itself eases up and the language becomes far simpler to understand. Joyce was employing both the plot and his surrounding style in order to press on his readers the real message which he intended. (It’s no coincidence that Joyce’s work has an &lt;a href="http://www.utulsa.edu/jjq/"&gt;entire quarterly journal&lt;/a&gt;, published regularly since 1963, dedicated to analysing it, because this extra level of complexity made the interpretations of Joyce’s works far more numerous!) Modernism was an attempt to use artistic mediums—in this case, language—to say something about the works they were used to create.&lt;/p&gt;
-
-&lt;p&gt;Returning to my two friends and their styles, I find editing to be an educational experience, forcing me to walk the fine line between deleting their personal style—which tells readers about their message in an important way supplementary to the content itself—and refining it into a more cohesive whole. Assuming that these folks are at all conscious about how they’re writing (which I know them to be), it’s fair to say that the way they write is intentional. It’s important, then, to try to preserve that style as best as possible while preventing it from detracting from the message itself. With the flowery friend, I sometimes think a toning-down is appropriate to keep the message clear, while with my logical friend I sometimes suggest a bit more fire for their words to reflect the passion which I know they possess in their heart. This kind of editing is most reliably achieved when the editor and the edited know each other well enough that the editor can gather what it is the edited really means to say.&lt;/p&gt;
-
-&lt;p&gt;Through all this editing, I’ve realized something important about the nature of writing and words, something which Joyce and his Modernist friends grasped and carried out so effectively: it is just as much about &lt;em&gt;how&lt;/em&gt; you say things as it is &lt;em&gt;what&lt;/em&gt; you’re saying.&lt;/p&gt;
-
-&lt;p&gt;A dry, academic tone on the most interesting subject will still manage to make that subject feel dry and boring. On the other hand, an over-zealous approach can also turn readers away, making them uncomfortable. Clear, concise, impassioned reasoning will always win out over either of the two, because it appeals both to people’s desire for knowledge and their desire to feel.&lt;/p&gt;
-
-&lt;p&gt;If you don’t know what that voice or style feels like to you, the best way to figure that out is to actually edit things yourself! Trying to discover it by writing can be a futile process, because you’re more likely than not to get stuck and bogged down writing with the same old voice you’ve always used. Through editing you might find that that voice doesn’t present the right version of you and your thoughts that you intend it to—seeing the “mistakes” in others’ writing is far easier than in your own!&lt;/p&gt;
-
-&lt;p&gt;One other thing that leads to figuring out that voice is being honest and respectful in your writing. Those two things, when combined in a considered manner (considered meaning that respectful doesn’t require you to always be nice, but that you should always be appropriate), lend an air of genuineness to your writing. If &lt;em&gt;how&lt;/em&gt; you say your message is just as important as &lt;em&gt;what&lt;/em&gt; you’re saying, then I reckon being genuine is a pretty good way to do it.&lt;/p&gt;
-
-&lt;p&gt;Edit a ton. Realize that your writing may not be saying at all what you mean it to. Edit your own words to bring it there, and then bring in others who really know you to help you along further. Asking for help is one of the most genuine things you can do.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div class="footnotes"&gt;
-  &lt;ol&gt;
-    &lt;li id="fn:editing-offer"&gt;
-      &lt;p&gt;&lt;em&gt;Side-note&lt;/em&gt;: If you’d like me to do some editing for you, I’d be happy to oblige. Feel free to &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;send any piece of writing&lt;/a&gt; you like to me and I’ll do my best to help you out. (Fair warning: if you send me your master’s dissertation, I may take a bit longer to get back to you.) &lt;a href="#fnref:editing-offer" class="reversefootnote"&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
 </content>
   </entry>
 </feed>
