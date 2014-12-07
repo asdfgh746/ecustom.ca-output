@@ -2,13 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2014-07-25T02:00:00Z</updated>
+  <updated>2014-12-07T00:30:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-12-06:/articles/star-trek/</id>
+    <title type="html">The Star Trek Future</title>
+    <published>2014-12-07T00:30:00Z</published>
+    <updated>2014-12-07T00:30:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/star-trek/"/>
+    <content type="html">&lt;p&gt;&lt;em&gt;Star Trek&lt;/em&gt; paints a very nice vision of the future. It considers where we could be in a few hundred years. Its version of that future has us using our newfound spare time to take advantage of those core activities that have made us happy for so much of our history—reading, music, art. And when we’re not doing those things we’re most likely to be found spending time face-to-face with one another.&lt;/p&gt;
+
+&lt;p&gt;But the version of the future that’s playing out is a bit different. Reading, music, and art are all fading a little bit in terms of participation—we consume with great pleasure, but there’s little by way of creation on the part of the everyday person. And when we spend time “together”, we’re more often than not not actually together.&lt;/p&gt;
+
+&lt;p&gt;I’d like some more of that &lt;em&gt;Star Trek&lt;/em&gt; vision of the future. Doing the things we’ve loved forever. Being with people in person.&lt;/p&gt;
+
+&lt;p&gt;Oh, and all the spaceships and such would be pretty great, too.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-07-24:/articles/vinyl/</id>
     <title type="html">Vinyl, Consideration, and Crap</title>
@@ -103,57 +118,6 @@
 &lt;p&gt;Keeping to a regular writing schedule is important. It helps you practice what can be a really difficult skill to work at. Equally important, though, is to actually publish whatever you’re writing. Even if it feels like it’s shit to you, it’s probably worth publishing.&lt;/p&gt;
 
 &lt;p&gt;If it helps just one person or makes them think about something different, there’s all the worth you’ve ever needed.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2014-06-26:/articles/thursdays/</id>
-    <title type="html">Thursdays</title>
-    <published>2014-06-26T22:00:00Z</published>
-    <updated>2014-06-26T22:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/thursdays/"/>
-    <content type="html">&lt;p&gt;I like Thursdays.&lt;/p&gt;
-
-&lt;p&gt;They’re a delightful, safe day of the week. They’re also the day I get a lot of my writing done. I find them to be a great day for this—by the time I’m writing on Thursday, about four days worth of “out-and-about” experiences will have accumulated, giving me plenty to think and write about.&lt;/p&gt;
-
-&lt;p&gt;But Thursdays aren’t just my writing day. They’ve become my publishing day. (I don’t write and then publish same-day. Some editing is always in order.)&lt;/p&gt;
-
-&lt;p&gt;Each Thursday for the past few weeks, I’ve been publishing something here.&lt;/p&gt;
-
-&lt;p&gt;I started by talking about the &lt;a href="/articles/notification-lights/"&gt;notification light on my phone&lt;/a&gt; and how I’ve shut it off, so that I can focus on the task at hand and be “in the moment” more often. Since then, I’ve disabled notifications on my phone &lt;em&gt;entirely&lt;/em&gt;, meaning that I’m no longer unintentionally interrupted from what I’m doing—at least as far as my phone is concerned.&lt;/p&gt;
-
-&lt;p&gt;In a similar theme, I shared a story about &lt;a href="/articles/ice-cream-time/"&gt;my ice cream time&lt;/a&gt;, which I set aside each night in order to get a moment of peace from the unfortunate busyness of technology. I also talked a bit about the idea of efficiency and how tech should be efficient not to get more done, but to give us more time to live life.&lt;/p&gt;
-
-&lt;p&gt;Departing from my regular style a bit, I published a (very) &lt;a href="/articles/on-struggling-and-death/"&gt;short story about death&lt;/a&gt;, inspired by the idea that there’s always multiple sides to consider in an issue, and that we can’t presume to know how another feels about a situation.&lt;/p&gt;
-
-&lt;p&gt;Last week, I published a &lt;a href="/articles/passion-not-pressure/"&gt;defense of procrastination&lt;/a&gt;, wherein I conveniently redefined procrastination to mean that I’m waiting for an impassioned moment to strike, enabling me to put out something great under a seemingly restricted schedule. There, I also talked about creative restraints, something &lt;a href="/articles/design-with-constraints/"&gt;I’ve discussed before&lt;/a&gt;, and how they can enable us in those desperate final moments to produce when all other methods seem to fail.&lt;/p&gt;
-
-&lt;p&gt;Today, I wrote &lt;a href="/articles/edit-your-own-voice/"&gt;a bit about editing&lt;/a&gt; for the purpose of learning about your own voice and how you like to verbalize your ideas. There’s no better way to learn about what you like or dislike than by seeing it in someone else’s work.&lt;/p&gt;
-
-&lt;p&gt;I’d like to keep this regular publishing up. We’ll see how that goes.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;em&gt;If I’ve just given a little summary of my writing over the past few weeks, I may as well throw in a look at how things in my life have been going. This is to cover the past few months, because it’s been &lt;a href="/articles/september-2013/"&gt;a while since I’ve done this last&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;Dear friend who I know, or person who wants to be my friend but I don’t know (in which case, &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;get in touch&lt;/a&gt;), or person who is on a deep internet dive and has chanced across my work:&lt;/p&gt;
-
-&lt;p&gt;I finished another year of school and realized that my educational passion is for the liberal arts and design.&lt;/p&gt;
-
-&lt;p&gt;Working for two friends, Sonja Katanic and Emma Cohen, I did the web design and some editing for their online magazine, &lt;a href="http://plasmadolphin.com/"&gt;Plasma Dolphin&lt;/a&gt;. The adjectives I’ve heard used to describe it include “rad”, “wicked”, and “funky” (okay, that last one was me), and I encourage you to check it out. This project for me has been (and will continue to be) an exercise in patience and last-minute productivity as I race to meet deadlines, but I love those friends and I love Plasma. Publication work is fun. I enjoy it to no end.&lt;/p&gt;
-
-&lt;p&gt;I spoke at WordCamp Ottawa in May. I talked (again) about &lt;a href="http://2014.ottawa.wordcamp.org/sessions/#post-850416"&gt;how to work with developers&lt;/a&gt;, a talk which I tweaked and love but have now semi-retired. (You can check out &lt;a href="https://speakerdeck.com/lchski/be-the-perfect-client-round-2"&gt;the slides&lt;/a&gt;, if you wish.) Being in Ottawa for the conference reminded me yet again why I love that city so much. There’s a feeling to it that I haven’t gotten in many other places—something to do with it being the nation’s capital city, I think. Capital cities are always special places.&lt;/p&gt;
-
-&lt;p&gt;Looking again at the work side of things, I’ve been keeping a fairly low profile of steady work. Right now I’m working on an exciting project with a local real estate group, which is enabling me to play with WordPress in ways I never have before. An article (or talk) will probably come out of that in the future; it’s an ideal candidate for a case study.&lt;/p&gt;
-
-&lt;p&gt;And of the future? Well, I’m taking on an interesting role this summer in addition to being a designer: I’ll be building actual physical things! In this case, an addition to my house. Maybe this’ll finally give me something of an appreciation for what “tools” &lt;em&gt;actually&lt;/em&gt; are, and what “craftsmen” &lt;em&gt;really&lt;/em&gt; do. I’ll also be at &lt;a href="http://2014.montreal.wordcamp.org/"&gt;WordCamp Montréal&lt;/a&gt; come August. Not as a speaker, but as an enthusiastic attendee once again.&lt;/p&gt;
-
-&lt;p&gt;I’m doing more and more with my life, but I’m feeling less and less of the tiredness that plagued me over the past few months. There are plenty of possible reasons for that fatigue, but I’m not up to consider them at the moment—I just want to take advantage of this energy and do things!&lt;/p&gt;
-
-&lt;p&gt;Expect more writing. I say that with a confidence that I’ve not had for a while about publishing.&lt;/p&gt;
-
-&lt;p&gt;Let’s stay in touch, yes? &lt;a href="&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#064;&amp;#108;&amp;#117;&amp;#099;&amp;#097;&amp;#115;&amp;#099;&amp;#104;&amp;#101;&amp;#114;&amp;#107;&amp;#101;&amp;#119;&amp;#115;&amp;#107;&amp;#105;&amp;#046;&amp;#099;&amp;#111;&amp;#109;"&gt;Email&lt;/a&gt; or &lt;a href="https://twitter.com/lchski"&gt;Twitter&lt;/a&gt; are both great. If you’d rather write letters (which are awesome), reach out to me on one of those platforms and we’ll exchange addresses.&lt;/p&gt;
-
-&lt;p&gt;This update has been a refreshing departure from my regular writings here. But I don’t expect them to be too common—there’s far too many other things to write about than my own life.&lt;/p&gt;
 </content>
   </entry>
 </feed>
