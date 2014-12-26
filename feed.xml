@@ -2,13 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://ecustom.ca/</id>
   <title>Lucas Cherkewski</title>
-  <updated>2014-12-23T19:00:00Z</updated>
+  <updated>2014-12-26T16:00:00Z</updated>
   <link rel="alternate" href="http://ecustom.ca/"/>
   <link rel="self" href="http://ecustom.ca/feed.xml"/>
   <author>
     <name>Lucas Cherkewski</name>
     <uri>http://ecustom.ca</uri>
   </author>
+  <entry>
+    <id>tag:ecustom.ca,2014-12-26:/articles/link-i-will-not-post-this/</id>
+    <title type="html">Link: I Will Not Post This</title>
+    <published>2014-12-26T16:00:00Z</published>
+    <updated>2014-12-26T16:00:00Z</updated>
+    <link rel="alternate" href="http://ecustom.ca/articles/link-i-will-not-post-this/"/>
+    <content type="html">&lt;figure class="block-quote"&gt;
+	&lt;blockquote&gt;&lt;p&gt;Don’t tweet. It’s not worth the risk. Don’t make phone calls. You’re being recorded. Don’t send emails. Sooner or later, we’ll all be reading them. Don’t take naked selfies, because some freak will find a way into your phone and share your photos in the seediest corners of the Internet. And the rest of us will have to look. Again, it’s not you. It’s us.&lt;/p&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;p&gt;If it’s digital, it’s public. That should make you scared of losing your privacy. But I’m more concerned about it scaring you away from publishing or sharing your thoughts and opinions at all.&lt;/p&gt;&lt;/blockquote&gt;
+	&lt;blockquote&gt;&lt;p&gt;Sharing was fun at first.&lt;/p&gt;&lt;/blockquote&gt;
+	&lt;figcaption&gt;
+		&lt;p&gt;&lt;a href="https://medium.com/sample-collection/i-will-not-post-this-575405404fca"&gt;I Will Not Post This&lt;/a&gt; by Dave Pell&lt;/p&gt;
+	&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I also really enjoy &lt;a href="http://nextdraft.com"&gt;Dave’s daily news dispatch&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <id>tag:ecustom.ca,2014-12-23:/articles/link-dont-call-the-police/</id>
     <title type="html">Link: Finding ways not to call the police</title>
@@ -90,33 +108,6 @@
 &lt;p&gt;We can either seek out the bad things, those which weigh heavily on us, or we can seek out the good things, those little joys which remind us that there’s more to life than just tragedy.&lt;/p&gt;
 
 &lt;p&gt;We can’t stop things outside of our control. We &lt;em&gt;can&lt;/em&gt; affect what we see and hear about.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <id>tag:ecustom.ca,2014-07-10:/articles/wars/</id>
-    <title type="html">Wars</title>
-    <published>2014-07-11T02:00:00Z</published>
-    <updated>2014-07-11T02:00:00Z</updated>
-    <link rel="alternate" href="http://ecustom.ca/articles/wars/"/>
-    <content type="html">&lt;p&gt;I like to think of myself as a fighter in a war. It’s a war against an evil both insidious and pervasive. I like to think of myself as a fighter in a war against the unpleasantness of the world.&lt;/p&gt;
-
-&lt;p&gt;If we’re to continue this war metaphor, I’ll need to describe some of the battles I’m fighting. There are many of them, against many enemies.&lt;/p&gt;
-
-&lt;p&gt;Sometimes, my battle is against the unpleasantness of ugliness. I fight then for beauty, trying to win in a series of confrontations the aim of which is an eradication of my enemy, ugliness, or whatever is contrary to beauty, using the tools of design to bring delight back into a world which is so ready to accept unsightliness.&lt;/p&gt;
-
-&lt;p&gt;At other times, my battle is against the unpleasantness of bad manners. Then, I fight to be polite in the face of a rude enemy who refuses to afford the same respect to me as I to them. The goal here is to spread a little niceness in the world, if possible, by wielding it as a weapon with which I attack those who would prefer to be rough and raw.&lt;/p&gt;
-
-&lt;p&gt;And much of the time, my battle involves the notions of equality and inequality. This is a battle where I sometimes catch myself fighting for the wrong side. It’s unintentional when I do this, but I do it nonetheless. See, where the other two battles involve something of an obvious enemy which can be fought with obvious tactics, this battle has an enemy which is not easily discovered, and it’s fought with tactics equally as opaque. It’s a battle where I struggle sometimes to even know what &lt;em&gt;exactly&lt;/em&gt; it is I’m fighting for, one where it’s hard to know how to approach a situation because the way is very much unclear. Oftentimes, it’s difficult to recognize that a situation is even part of this battle, it being all to easy to categorize it as something else.&lt;/p&gt;
-
-&lt;p&gt;My first two wars are easily fought. They’re easy wars to fight, because they’re loud and highly visible. But the third war—the war for equality—it’s nowhere near as visible or as comprehensible. Like a diamond, it has many, many facets. But in a way distinctly unlike that gem, there is no clear way through it.&lt;/p&gt;
-
-&lt;p&gt;It’s no good to be content fighting just the first two wars, though. The third war, if I’m realistic, is the only one that’s truly insidious. The outcome of that war—if there can even be a declared outcome—is more important than that of any other war I can fight.&lt;/p&gt;
-
-&lt;p&gt;But how can I fight it? How can I fight it when I don’t know how to fight accurately—when I don’t have direction?&lt;/p&gt;
-
-&lt;p&gt;This war needs generals. It needs clear leaders who can unite the factions fighting for equality—for there are many, but they are fractured and disparate—and guide us all towards the end we all know is right.&lt;/p&gt;
-
-&lt;p&gt;Those leaders may already exist. Whoever they are, we need to find a way to start following them.&lt;/p&gt;
 </content>
   </entry>
 </feed>
